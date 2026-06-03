@@ -7,7 +7,7 @@
         span 1
       h1 Patronaje básico
     
-    p.mb-0 La actividad del patronaje se constituye como la actividad básica en la creación de las prendas, es definido como el proceso mediante el cual se elaboran todas las piezas y moldes necesarios para la creación y estructuración de una prenda, este proceso se encuentra ligado al proceso creativo del diseñador.
+    p.mb-0(data-aos="fade-right") La actividad del patronaje se constituye como la actividad básica en la creación de las prendas, es definido como el proceso mediante el cual se elaboran todas las piezas y moldes necesarios para la creación y estructuración de una prenda, este proceso se encuentra ligado al proceso creativo del diseñador.
 
 
     separador
@@ -24,7 +24,7 @@
             p.mb-4(data-aos="fade-left") La comunicación es primordial para el logro de los objetivos de una empresa, por lo tanto todas las áreas de la planta deben definir e identificar los conceptos propios del proceso para su aplicación en una determinada sección sin inconvenientes y no alterar la calidad de la prenda al momento de avanzar en las diferentes secciones o áreas de producción.
             p.mb-0(data-aos="fade-right") El patronaje es la técnica de desarrollo de las plantillas resultado de la interpretación del diseño de la prenda, tiene en cuenta las medidas del cuerpo, las cuales pueden ser tridimensionales o bidimensionales. De acuerdo con la industrialización del proceso se hace necesario convenir en el uso de términos y de símbolos, es necesario que se maneje un lenguaje técnico relacionado al proceso, como por ejemplo, hilo de tela, línea de aplome, ampliaciones, desahogos, entre otros para su aplicación en el procedimiento.
     
-    .tarjeta.color-acento-contenido.des.p-4.mb-5(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.des.p-4.mb-5(data-aos="fade-left")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img.img-a.img-t.mx-lg-4(src="@/assets/curso/tema1/pdf.svg")
@@ -38,7 +38,7 @@
                 span Descargar 
                 i.fas.fa-file-download
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-7
         .bg3.p-lg-5.p-4
           p.mb-4 Para identificar los patrones, debe indicarse de manera ordenada:
@@ -61,7 +61,7 @@
       .col-lg-5.d-none.d-lg-block
         img.img-t.img-a(src='@/assets/curso/tema1/3.svg', alt='')
 
-    p.mb-4 A continuación, se detalla el despiece y la rotulación de algunos patrones, los cuales exponen el orden correspondiente para su correcta identificación.
+    p.mb-4(data-aos="fade-right") A continuación, se detalla el despiece y la rotulación de algunos patrones, los cuales exponen el orden correspondiente para su correcta identificación.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -71,9 +71,9 @@
             | Patrón de confección de prenda con piezas de delantero, espalda y manga.
           img.img-a.img-t(src='@/assets/curso/tema1/4.svg', alt='Ilustración de una mujer señalando un tablero con moldes de confección de una prenda. En el tablero aparecen tres piezas del patrón: delantero, espalda y manga, cada una con líneas de referencia, pinzas y flechas verticales indicando dirección. Los textos visibles dicen “Delantero referencia 02-102 talla 10 x-2”, “Espalda referencias 02-102 talla 10 x-1” y “Manga referencias 02-102 talla 10 x-2”. El fondo es gris claro y el tablero tiene un tono azul claro.')
 
-    p.mb-4 Las convenciones son símbolos para poder identificar el patrón o molde y las claves geométricas también se requieren para poder desarrollar cada pieza, conforme al diseño especificado.
+    p.mb-4(data-aos="fade-right") Las convenciones son símbolos para poder identificar el patrón o molde y las claves geométricas también se requieren para poder desarrollar cada pieza, conforme al diseño especificado.
 
-    .tarjeta.color-acento-contenido.des.p-4.mb-5(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.des.p-4.mb-5(data-aos="fade-left")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img.img-a.img-t.mx-lg-4(src="@/assets/curso/tema1/pdf.svg")
@@ -87,7 +87,7 @@
                 span Descargar 
                 i.fas.fa-file-download
 
-    p.mb-0 Los materiales y herramientas para desarrollar manualmente los patrones son papel molde o manifold, tijeras de papel, portaminas, borrador, micropuntas de colores, pegante en barra, rodaja, punzón y las reglas de patronaje.
+    p.mb-0(data-aos="fade-right") Los materiales y herramientas para desarrollar manualmente los patrones son papel molde o manifold, tijeras de papel, portaminas, borrador, micropuntas de colores, pegante en barra, rodaja, punzón y las reglas de patronaje.
 
 
     separador
@@ -117,7 +117,7 @@
             | Medidas corporales para confección de falda.
           img.img-a.img-t(src='@/assets/curso/tema1/4.svg', alt='Ilustración de una mujer señalando un tablero con moldes de confección de una prenda. En el tablero aparecen tres piezas del patrón: delantero, espalda y manga, cada una con líneas de referencia, pinzas y flechas verticales indicando dirección. Los textos visibles dicen “Delantero referencia 02-102 talla 10 x-2”, “Espalda referencias 02-102 talla 10 x-1” y “Manga referencias 02-102 talla 10 x-2”. El fondo es gris claro y el tablero tiene un tono azul claro.')
 
-    p.mb-4 Los materiales y herramientas para desarrollar manualmente los patrones son papel molde o manifold, tijeras de papel, portaminas, borrador, micropuntas de colores, pegante en barra, rodaja, punzón y las reglas de patronaje.
+    p.mb-4(data-aos="fade-right") Los materiales y herramientas para desarrollar manualmente los patrones son papel molde o manifold, tijeras de papel, portaminas, borrador, micropuntas de colores, pegante en barra, rodaja, punzón y las reglas de patronaje.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -127,11 +127,11 @@
             | Clasificación de tallas por rango de edad
           img.img-a.img-t(src='@/assets/curso/tema1/6.svg', alt='Gráfico informativo que relaciona rangos de edad con tipos de tallas de confección. El contenido indica: “0 a 12 meses – Tallas bebé”, “1 a 14 años – Tallas infantiles”, “15 a 17 años – Tallas jóvenes” y “A partir de los 18 años – Tallas adultos”. Cada categoría está conectada por una línea horizontal verde sobre un fondo gris claro con borde redondeado.')
 
-    p.mb-4 Teniendo en cuenta lo mencionado, hay que tener presente que el cuerpo humano es considerado un cuerpo geométrico tridimensional irregular, el cual se asemeja a la figura geométrica de un cilindro conformado por su contorno, que una vez abierto forma un rectángulo, el cual es el área en la que se trabaja el patrón. Al dividir en dos partes el rectángulo, una parte corresponde al posterior del cuerpo y la otra mitad corresponde a la parte anterior o delantera del cuerpo, basados en la simetría del cuerpo humano, es decir, que el lado derecho es igual al lado izquierdo, por lo cual se puede trazar solo la mitad del delantero y así mismo con el posterior.
+    p.mb-4(data-aos="fade-right") Teniendo en cuenta lo mencionado, hay que tener presente que el cuerpo humano es considerado un cuerpo geométrico tridimensional irregular, el cual se asemeja a la figura geométrica de un cilindro conformado por su contorno, que una vez abierto forma un rectángulo, el cual es el área en la que se trabaja el patrón. Al dividir en dos partes el rectángulo, una parte corresponde al posterior del cuerpo y la otra mitad corresponde a la parte anterior o delantera del cuerpo, basados en la simetría del cuerpo humano, es decir, que el lado derecho es igual al lado izquierdo, por lo cual se puede trazar solo la mitad del delantero y así mismo con el posterior.
     
-    p.mb-4 En consecuencia, existen medidas horizontales como el ancho de pecho y ancho de espalda que se dividen en dos para trazar en el patrón y las medidas de contornos (busto, cintura, cadera) se dividen en cuatro para poder trazar en el patrón.
+    p.mb-4(data-aos="fade-left") En consecuencia, existen medidas horizontales como el ancho de pecho y ancho de espalda que se dividen en dos para trazar en el patrón y las medidas de contornos (busto, cintura, cadera) se dividen en cuatro para poder trazar en el patrón.
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bg4.p-4.mb-2
           .titulo-sexto
@@ -140,17 +140,17 @@
           img.img-a.img-t(src='@/assets/curso/tema1/7.svg', alt='Diagrama explicativo en tres pasos sobre la construcción de patrones de confección a partir de una figura cilíndrica. La primera imagen muestra un cilindro que envuelve el cuerpo humano con una línea vertical punteada y marcas de corte. La segunda muestra el cilindro cortado por la mitad. La tercera presenta un rectángulo desplegado que representa el área que cubre el cuerpo humano, con indicaciones de “Centro espalda” y “Centro delantero”. El fondo es gris claro y las líneas guía son verdes.')
         figcaption #[b Fuente:] (Carrera de diseño y gestión en moda, 2015, pág 10)
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")          
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")          
       .col-lg-12
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/XxCRQGNL_G4?si=AYY6zVE7VmOMzjMm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Toma de medidas
 
-    .bg5.p-lg5.p-4.mb-5
+    .bg5.p-lg5.p-4.mb-5(data-aos="fade-right")
       p.mb-0 La empresa debe conocer al consumidor, su antropometría y así con un estudio minucioso establecer una tabla de medidas en donde se estandarice por tallas. Las tablas muestran en orden creciente las medidas y su talla, conforme a la proporción, la cual se entiende como una unidad de medida constante, y es aplicada en cada talla para establecer su variación. Las tablas de medidas pueden cambiar en una misma línea de producto, conforme el mercado, la marca del producto o tipo de tejido.
 
-    .tarjeta.color-acento-contenido.des.p-4.mb-0(data-aos="fade-right")
+    .tarjeta.color-acento-contenido.des.p-4.mb-0(data-aos="fade-left")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img.img-a.img-t.mx-lg-4(src="@/assets/curso/tema1/pdf.svg")
@@ -180,9 +180,9 @@
             p.mb-0 El espacio para realizar la actividad de patronaje debe contar con una mesa plana de trabajo uniforme, suficiente para colocar pliegos de papel manifold o cartón cartulina, sus materiales y herramientas en el caso que sea de manera manual; el patronaje requiere precisión en el trazo de las líneas y curvas, aplicar correctamente las medidas y cortar los patrones según el paso a paso del desarrollo del molde. A partir de las medidas del patrón una vez desarrollado, se trazan además los anchos de costuras alrededor del trazo de cada pieza. De allí el cuadro de medidas de prenda terminada y de patrones para luego ejecutar el control de calidad.
         p.mb-0 Además de la opción de realizar el patronaje manual, actualmente se utilizan programas de software especializados en los que se desarrolla el patronaje, el escalado y trazo de las prendas. Los más utilizados son #[b Audaces, Optitex, Lectra, Gerber,,] entre otros, los cuales optimizan el tiempo de las actividades en un alto porcentaje.
     
-    p.mb-4 Los anchos de costura aplicados, dependen del tipo de costura y conforme a las normas de calidad en el proceso industrializado, en donde se considera un (1) cm de ancho de costura, pero además se debe tener en cuenta el ajuste y características de las máquinas, por ejemplo, el ancho de un sobrehilado puede variar según el ajuste por tanto puede afectar las medidas de los contornos en una camiseta cuando se unan a los costados, de allí puede ser 0,5 cm o 0,7 cm el ancho de costura, variando 2 mm que en total del contorno equivale a 2mm x 4mm = 8 mm, es decir casi un centímetro lo que afectará las medidas de prenda terminada.
+    p.mb-4(data-aos="fade-left") Los anchos de costura aplicados, dependen del tipo de costura y conforme a las normas de calidad en el proceso industrializado, en donde se considera un (1) cm de ancho de costura, pero además se debe tener en cuenta el ajuste y características de las máquinas, por ejemplo, el ancho de un sobrehilado puede variar según el ajuste por tanto puede afectar las medidas de los contornos en una camiseta cuando se unan a los costados, de allí puede ser 0,5 cm o 0,7 cm el ancho de costura, variando 2 mm que en total del contorno equivale a 2mm x 4mm = 8 mm, es decir casi un centímetro lo que afectará las medidas de prenda terminada.
 
-    p.mb-4 El procedimiento de patronaje manual se desarrolla en tres pasos básicos como muestra en la siguiente figura y los cuales cuentan con una serie de actividades a realizar y las cuales permiten el desarrollo de un patrón con las características recibidas en la orden de trabajo.
+    p.mb-4(data-aos="fade-right") El procedimiento de patronaje manual se desarrolla en tres pasos básicos como muestra en la siguiente figura y los cuales cuentan con una serie de actividades a realizar y las cuales permiten el desarrollo de un patrón con las características recibidas en la orden de trabajo.
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-12.offset-lg-0
@@ -259,7 +259,7 @@
                   i.fas.fa-boltt
                   p.mb-0 Aprobar el patron una vez cumpla con los requisitos.
 
-    p.mb-4 Una vez se aprueba el prototipo o muestra, desarrollado de forma manual o asistido por computador, se procede a realizar el escalado de cada pieza que compone el patrón, como lo muestra la figura, a lo cual se le denomina nido.
+    p.mb-4(data-aos="fade-right") Una vez se aprueba el prototipo o muestra, desarrollado de forma manual o asistido por computador, se procede a realizar el escalado de cada pieza que compone el patrón, como lo muestra la figura, a lo cual se le denomina nido.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
@@ -293,7 +293,7 @@
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
       h3.mb-0 Patronaje básico femenino
 
-    p.mb-4 Para construir el patrón básico de corpiño se requieren las medidas de talle delantero, talle posterior, hombro, escote, ancho de pecho, ancho de espalda, altura de busto, separación de busto, contorno de busto y contorno de cintura. Es importante ubicar el centro frente y centro atrás en el papel que equivale al orillo a lo largo del pliego, es decir en línea vertical.
+    p.mb-4(data-aos="fade-left") Para construir el patrón básico de corpiño se requieren las medidas de talle delantero, talle posterior, hombro, escote, ancho de pecho, ancho de espalda, altura de busto, separación de busto, contorno de busto y contorno de cintura. Es importante ubicar el centro frente y centro atrás en el papel que equivale al orillo a lo largo del pliego, es decir en línea vertical.
 
     .tarjeta.color-acento-contenido.des.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-around.align-items-center
