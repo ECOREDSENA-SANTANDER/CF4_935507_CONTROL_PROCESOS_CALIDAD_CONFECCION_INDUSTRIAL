@@ -115,7 +115,7 @@
           .titulo-sexto
             h5 Figura 2. 
             | Medidas corporales para confección de falda.
-          img.img-a.img-t(src='@/assets/curso/tema1/4.svg', alt='Ilustración de una mujer señalando un tablero con moldes de confección de una prenda. En el tablero aparecen tres piezas del patrón: delantero, espalda y manga, cada una con líneas de referencia, pinzas y flechas verticales indicando dirección. Los textos visibles dicen “Delantero referencia 02-102 talla 10 x-2”, “Espalda referencias 02-102 talla 10 x-1” y “Manga referencias 02-102 talla 10 x-2”. El fondo es gris claro y el tablero tiene un tono azul claro.')
+          img.img-a.img-t(src='@/assets/curso/tema1/21.svg', alt='Figura que explica las medidas corporales necesarias para la confección de una falda. Incluye cuatro ilustraciones de una figura femenina con una falda verde y el patrón de la prenda. Se identifican las medidas de contorno de cintura, largo de falda, contorno de cadera y separación del busto mediante flechas y líneas de referencia sobre el cuerpo y el molde.')
 
     p.mb-4(data-aos="fade-right") Los materiales y herramientas para desarrollar manualmente los patrones son papel molde o manifold, tijeras de papel, portaminas, borrador, micropuntas de colores, pegante en barra, rodaja, punzón y las reglas de patronaje.
 
