@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="738.685" height="267.27" viewBox="0 0 738.685 267.27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_462103" data-name="Rectángulo 462103" width="738.124" height="180.007" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_462104" data-name="Rectángulo 462104" width="738.185" height="179.478" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_462105" data-name="Rectángulo 462105" width="738.185" height="180.007" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1195832" data-name="Grupo 1195832" transform="translate(-2585 5731.636)">
+    <g id="Grupo_1195831" data-name="Grupo 1195831">
+      <g id="Grupo_1195830" data-name="Grupo 1195830">
+        <g id="Grupo_1195829" data-name="Grupo 1195829">
+          <g id="Grupo_1195791" data-name="Grupo 1195791" transform="translate(1848.789 -11927.942)">
+            <rect id="Rectángulo_462106" data-name="Rectángulo 462106" width="738.124" height="129" transform="translate(736.711 6247)" fill="#fff" opacity="0.899"/>
+            <g id="Grupo_1195168" data-name="Grupo 1195168" transform="translate(736.711 6196.307)">
+              <g id="Grupo_1195163" data-name="Grupo 1195163">
+                <g id="Grupo_1195162" data-name="Grupo 1195162" clip-path="url(#clip-path)">
+                  <path id="Trazado_1015616" data-name="Trazado 1015616" d="M179.715.686H704.493c18.913,0,34.243,9.236,34.243,20.63v30.6H179.715Z" transform="translate(-1.591)" fill="#e0e8fc"/>
+                  <path id="Trazado_1015617" data-name="Trazado 1015617" d="M179.715.686H704.493c18.913,0,34.243,9.236,34.243,20.63v30.6H179.715Z" transform="translate(-1.591)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.371"/>
+                </g>
+              </g>
+              <text id="Ficha_técnica_diseño" data-name="Ficha técnica diseño" transform="translate(360.185 46.254)" fill="#1f2733" font-size="17" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Ficha técnica diseño</tspan></text>
+              <text id="Nombre_de_la_empresa" data-name="Nombre de la empresa" transform="translate(346.185 18.833)" fill="#1f2733" font-size="17" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Nomb</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0">e de la emp</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0">esa</tspan></text>
+              <text id="Referencia" transform="translate(8.438 70.36)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Re</tspan><tspan y="0" letter-spacing="-0.011em">f</tspan><tspan y="0">e</tspan><tspan y="0" letter-spacing="-0.008em">r</tspan><tspan y="0">encia</tspan></text>
+              <text id="Molde" transform="translate(8.438 95.367)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Molde</tspan></text>
+              <text id="Diseñador" transform="translate(8.438 120.374)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Diseñador</tspan></text>
+              <text id="Tipo_de_empaque" data-name="Tipo de empaque" transform="translate(8.438 145.381)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Tipo de empaque</tspan></text>
+              <text id="Descripción_de_la_prenda" data-name="Descripción de la prenda" transform="translate(8.438 172.377)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Descripción de la prenda</tspan></text>
+              <text id="Prenda" transform="translate(320.185 70.377)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">P</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">enda</tspan></text>
+              <text id="Línea" transform="translate(320.185 95.384)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Línea</tspan></text>
+              <text id="Talla_base" data-name="Talla base" transform="translate(320.185 120.391)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.055em">T</tspan><tspan y="0">alla base</tspan></text>
+              <text id="Fecha_solicitud" data-name="Fecha solicitud" transform="translate(474.685 70.394)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.01em">F</tspan><tspan y="0">ech</tspan><tspan y="0" letter-spacing="0.001em">a</tspan><tspan y="0" xml:space="preserve"> solicitud</tspan></text>
+              <text id="Fecha_elaboración" data-name="Fecha elaboración" transform="translate(474.685 95.402)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0" letter-spacing="-0.01em">F</tspan><tspan y="0">ech</tspan><tspan y="0" letter-spacing="0.001em">a</tspan><tspan y="0" xml:space="preserve"> elaboración</tspan></text>
+              <text id="Año_muestrario" data-name="Año muestrario" transform="translate(474.685 120.408)" fill="#3c3c3b" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Año muestrario</tspan></text>
+              <g id="Grupo_1195165" data-name="Grupo 1195165">
+                <g id="Enmascarar_grupo_1195164" data-name="Enmascarar grupo 1195164" clip-path="url(#clip-path-2)">
+                  <line id="Línea_3729" data-name="Línea 3729" x2="737.457" transform="translate(0.5 76.668)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.058"/>
+                  <line id="Línea_3730" data-name="Línea 3730" x2="737.457" transform="translate(0.5 101.419)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.058"/>
+                  <line id="Línea_3731" data-name="Línea 3731" x2="737.457" transform="translate(0.5 126.17)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.058"/>
+                  <path id="Trazado_1016599" data-name="Trazado 1016599" d="M0,0H737.685" transform="translate(-0.5 153.603)" fill="none" stroke="#80aee0" stroke-width="1"/>
+                  <path id="Trazado_1016602" data-name="Trazado 1016602" d="M0,0H737.685" transform="translate(-0.5 179.603)" fill="none" stroke="#80aee0" stroke-width="1"/>
+                  <line id="Línea_3734" data-name="Línea 3734" x2="559.577" transform="translate(178.38 27.167)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.038"/>
+                  <line id="Línea_3735" data-name="Línea 3735" x2="281.614" transform="translate(179.619 0.686)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1"/>
+                  <path id="Trazado_1015618" data-name="Trazado 1015618" d="M179.567.686H15.542A15.043,15.043,0,0,0,.5,15.729V51.918H179.567Z" fill="#334155"/>
+                  <path id="Trazado_1015619" data-name="Trazado 1015619" d="M179.567.686H15.542A15.043,15.043,0,0,0,.5,15.729V51.918H179.567Z" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1"/>
+                  <line id="Línea_3733" data-name="Línea 3733" x2="515.999" transform="translate(0.5 179.478)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.058"/>
+                  <path id="Trazado_1016604" data-name="Trazado 1016604" d="M0,0H737.685" transform="translate(-0.5 153.603)" fill="none" stroke="#80aee0" stroke-width="1"/>
+                </g>
+              </g>
+              <text id="Logo_de_la_" data-name="Logo de la " transform="translate(14.445 32.797)" fill="#fff" font-size="17" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Logo de la </tspan></text>
+              <text id="empresa" transform="translate(97.405 32.797)" fill="#fff" font-size="17" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">emp</tspan><tspan y="0" letter-spacing="-0.009em">r</tspan><tspan y="0">esa</tspan></text>
+              <g id="Grupo_1195167" data-name="Grupo 1195167">
+                <g id="Enmascarar_grupo_1195166" data-name="Enmascarar grupo 1195166" clip-path="url(#clip-path-3)">
+                  <line id="Línea_3736" data-name="Línea 3736" y2="177.062" transform="translate(179.567 2.415)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.006"/>
+                  <line id="Línea_3737" data-name="Línea 3737" y2="72.71" transform="translate(314.986 52.483)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.006"/>
+                  <line id="Línea_3757" data-name="Línea 3757" y2="72.71" transform="translate(407.986 52.483)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.006"/>
+                  <line id="Línea_3758" data-name="Línea 3758" y2="72.71" transform="translate(467.986 52.483)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.006"/>
+                  <line id="Línea_3759" data-name="Línea 3759" y2="72.71" transform="translate(628.986 52.483)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1.006"/>
+                  <line id="Línea_3738" data-name="Línea 3738" x2="460.733" transform="translate(0.5 51.918)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1"/>
+                  <line id="Línea_3760" data-name="Línea 3760" x2="460.733" transform="translate(0.5 179.478)" fill="none" stroke="#80aee0" stroke-miterlimit="10" stroke-width="1"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <path id="Trazado_1016603" data-name="Trazado 1016603" d="M179.715.686h691.99c24.939,0,45.154,3.91,45.154,8.733V22.373H179.715Z" transform="translate(2405.785 -5552.315)" fill="#e0e8fc"/>
+          <path id="Trazado_1016605" data-name="Trazado 1016605" d="M0,0H737.685" transform="translate(2585 -5529.942)" fill="none" stroke="#80aee0" stroke-width="1"/>
+          <path id="Trazado_1016606" data-name="Trazado 1016606" d="M0,0H737.685" transform="translate(2585 -5464.866)" fill="none" stroke="#80aee0" stroke-width="1"/>
+          <path id="Trazado_1016851" data-name="Trazado 1016851" d="M3.827-4.1V0H.913V-12.086H5.736a5.617,5.617,0,0,1,2.453.51,3.847,3.847,0,0,1,1.652,1.453,3.967,3.967,0,0,1,.585,2.137A3.5,3.5,0,0,1,9.16-5.159,5.252,5.252,0,0,1,5.686-4.1Zm0-2.25H5.736a1.8,1.8,0,0,0,1.291-.423,1.573,1.573,0,0,0,.444-1.2,1.944,1.944,0,0,0-.457-1.353,1.617,1.617,0,0,0-1.245-.515H3.827ZM14.8,0H11.995V-12.75H14.8Zm6.782,0a3.159,3.159,0,0,1-.266-.805,2.6,2.6,0,0,1-2.158.971A3.187,3.187,0,0,1,17-.6a2.444,2.444,0,0,1-.888-1.93A2.512,2.512,0,0,1,17.191-4.74a5.5,5.5,0,0,1,3.138-.747h.863v-.475q0-1.243-1.071-1.243a.875.875,0,0,0-1,.984h-2.8a2.508,2.508,0,0,1,1.108-2.114,4.657,4.657,0,0,1,2.826-.813,4.083,4.083,0,0,1,2.714.838A2.915,2.915,0,0,1,24-6.01v3.976a4.072,4.072,0,0,0,.382,1.893V0ZM19.831-1.826A1.56,1.56,0,0,0,20.7-2.05a1.4,1.4,0,0,0,.494-.506V-3.993h-.813q-1.461,0-1.461,1.312a.8.8,0,0,0,.257.618A.931.931,0,0,0,19.831-1.826Zm8.284-7.155.091,1.054a3.046,3.046,0,0,1,2.565-1.22,2.562,2.562,0,0,1,2.1.838,3.991,3.991,0,0,1,.718,2.523V0H30.779V-5.669a1.516,1.516,0,0,0-.274-1,1.267,1.267,0,0,0-1-.32,1.334,1.334,0,0,0-1.22.647V0h-2.8V-8.981ZM34.78-4.574A5.3,5.3,0,0,1,35.3-6.969a3.74,3.74,0,0,1,1.5-1.615,4.525,4.525,0,0,1,2.3-.564A4.13,4.13,0,0,1,42.284-7.9a4.794,4.794,0,0,1,1.162,3.4v.1A4.651,4.651,0,0,1,42.28-1.067,4.141,4.141,0,0,1,39.122.166a4.188,4.188,0,0,1-3.08-1.15A4.5,4.5,0,0,1,34.789-4.1Zm2.8.174a3.342,3.342,0,0,0,.39,1.826,1.3,1.3,0,0,0,1.154.581q1.494,0,1.527-2.3v-.282q0-2.416-1.544-2.416-1.4,0-1.519,2.083ZM48.56-4.557a5.486,5.486,0,0,1,.921-3.362,3.033,3.033,0,0,1,2.573-1.229A2.579,2.579,0,0,1,54.08-8.2V-12.75h2.806V0H54.37l-.141-.963A2.649,2.649,0,0,1,52.038.166,3.027,3.027,0,0,1,49.5-1.062,5.66,5.66,0,0,1,48.56-4.557Zm2.8.174q0,2.391,1.395,2.391a1.377,1.377,0,0,0,1.328-.78v-3.42a1.34,1.34,0,0,0-1.312-.8q-1.295,0-1.4,2.092ZM62.82.166a4.617,4.617,0,0,1-3.345-1.233A4.257,4.257,0,0,1,58.2-4.275v-.232a5.516,5.516,0,0,1,.51-2.432A3.735,3.735,0,0,1,60.2-8.571a4.5,4.5,0,0,1,2.324-.577A3.888,3.888,0,0,1,65.51-7.973a4.616,4.616,0,0,1,1.1,3.275v1.087H61.044A2.016,2.016,0,0,0,61.7-2.424a1.951,1.951,0,0,0,1.312.432,2.514,2.514,0,0,0,2.075-.93l1.278,1.511a3.573,3.573,0,0,1-1.482,1.15A5.007,5.007,0,0,1,62.82.166ZM62.5-6.989q-1.229,0-1.461,1.627h2.822v-.216a1.386,1.386,0,0,0-.34-1.042A1.354,1.354,0,0,0,62.5-6.989Zm9.106,2.432a5.486,5.486,0,0,1,.921-3.362,3.033,3.033,0,0,1,2.573-1.229,2.579,2.579,0,0,1,2.025.946V-12.75h2.806V0H77.421L77.28-.963A2.649,2.649,0,0,1,75.089.166a3.027,3.027,0,0,1-2.54-1.229A5.66,5.66,0,0,1,71.611-4.557Zm2.8.174q0,2.391,1.395,2.391a1.377,1.377,0,0,0,1.328-.78v-3.42a1.34,1.34,0,0,0-1.312-.8q-1.295,0-1.4,2.092ZM84.477,0H81.671V-8.981h2.806ZM81.505-11.3a1.249,1.249,0,0,1,.432-.979,1.629,1.629,0,0,1,1.121-.382,1.629,1.629,0,0,1,1.121.382,1.249,1.249,0,0,1,.432.979,1.249,1.249,0,0,1-.432.979,1.629,1.629,0,0,1-1.121.382,1.629,1.629,0,0,1-1.121-.382A1.249,1.249,0,0,1,81.505-11.3Zm9.4,8.774a.646.646,0,0,0-.374-.573,5.682,5.682,0,0,0-1.419-.448,6.473,6.473,0,0,1-1.727-.61,2.892,2.892,0,0,1-1.038-.917,2.19,2.19,0,0,1-.357-1.237,2.482,2.482,0,0,1,1.021-2.038,4.206,4.206,0,0,1,2.673-.8,4.66,4.66,0,0,1,2.855.805,2.518,2.518,0,0,1,1.079,2.117H90.811q0-1.079-1.137-1.079a1.127,1.127,0,0,0-.739.245.758.758,0,0,0-.3.61A.7.7,0,0,0,89-5.844a3.451,3.451,0,0,0,1.166.382,10.078,10.078,0,0,1,1.407.357,2.556,2.556,0,0,1,2.025,2.5,2.352,2.352,0,0,1-1.092,2,4.787,4.787,0,0,1-2.826.772,4.885,4.885,0,0,1-2.059-.415,3.442,3.442,0,0,1-1.411-1.129,2.556,2.556,0,0,1-.506-1.5H88.32a1.081,1.081,0,0,0,.415.909,1.707,1.707,0,0,0,1.021.286,1.343,1.343,0,0,0,.859-.232A.743.743,0,0,0,90.9-2.523ZM99.252.166a4.617,4.617,0,0,1-3.345-1.233,4.257,4.257,0,0,1-1.278-3.208v-.232a5.516,5.516,0,0,1,.51-2.432,3.735,3.735,0,0,1,1.49-1.631,4.5,4.5,0,0,1,2.324-.577,3.888,3.888,0,0,1,2.988,1.175,4.616,4.616,0,0,1,1.1,3.275v1.087H97.476a2.016,2.016,0,0,0,.656,1.187,1.951,1.951,0,0,0,1.312.432,2.514,2.514,0,0,0,2.075-.93L102.8-1.411a3.573,3.573,0,0,1-1.482,1.15A5.007,5.007,0,0,1,99.252.166Zm-.315-7.155q-1.229,0-1.461,1.627H100.3v-.216a1.386,1.386,0,0,0-.34-1.042A1.354,1.354,0,0,0,98.937-6.989Zm7.794-1.992.091,1.054a3.046,3.046,0,0,1,2.565-1.22,2.562,2.562,0,0,1,2.1.838,3.991,3.991,0,0,1,.718,2.523V0H109.4V-5.669a1.516,1.516,0,0,0-.274-1,1.267,1.267,0,0,0-1-.32,1.334,1.334,0,0,0-1.22.647V0h-2.8V-8.981Zm4.64-3.7a2.42,2.42,0,0,1-.552,1.606,1.713,1.713,0,0,1-1.365.66,2.694,2.694,0,0,1-1.22-.349,2.545,2.545,0,0,0-1.087-.349.623.623,0,0,0-.452.183.759.759,0,0,0-.187.564l-1.552-.083a2.433,2.433,0,0,1,.552-1.594,1.693,1.693,0,0,1,1.357-.672,2.8,2.8,0,0,1,1.087.307,6.677,6.677,0,0,0,.851.349,1.644,1.644,0,0,0,.378.042.634.634,0,0,0,.457-.185.762.762,0,0,0,.191-.571Zm2.025,8.11a5.3,5.3,0,0,1,.523-2.395,3.74,3.74,0,0,1,1.5-1.615,4.525,4.525,0,0,1,2.3-.564A4.13,4.13,0,0,1,120.9-7.9a4.794,4.794,0,0,1,1.162,3.4v.1A4.651,4.651,0,0,1,120.9-1.067,4.141,4.141,0,0,1,117.738.166a4.188,4.188,0,0,1-3.08-1.15A4.5,4.5,0,0,1,113.405-4.1Zm2.8.174a3.342,3.342,0,0,0,.39,1.826,1.3,1.3,0,0,0,1.154.581q1.494,0,1.527-2.3v-.282q0-2.416-1.544-2.416-1.4,0-1.519,2.083Z" transform="translate(2889.05 -5533.942)" fill="#1f2733"/>
+          <path id="Trazado_1016852" data-name="Trazado 1016852" d="M0,0H738.124V65.077H0Z" transform="translate(2585.5 -5529.942)" fill="#fff" opacity="0.899"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

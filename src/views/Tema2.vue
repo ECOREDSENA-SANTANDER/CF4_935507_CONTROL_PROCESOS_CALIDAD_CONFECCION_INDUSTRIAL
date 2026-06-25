@@ -53,7 +53,7 @@
                   img.img-t.img-a.mtop.rot(src='@/assets/curso/tema2/up.svg' alt="")
                 .col-lg-10
                   h5.mb-3.txp Convencional
-              p.mb-0.txp utiliza maquinaria y equipos electromecánicos, y se realiza a mano por uno o varios operarios.
+              p.mb-0.txp Utiliza maquinaria y equipos electromecánicos, y se realiza a mano por uno o varios operarios.
         .col-lg-4.mb-4.mb-lg-0.col-md-6(data-aos="zoom-in")
           .crd_hover_txt
             .crd_hover_txt--img
@@ -65,7 +65,7 @@
                   img.img-t.img-a.mtop.rot(src='@/assets/curso/tema2/up.svg' alt="")
                 .col-lg-10
                   h5.mb-3.txp Automático
-              p.mb-0.txp Comprende elementos como mesa, unidad de control, conformado por el ordenador con software especializado, cabezal de corte, carro extendedor automático. Este tipo de corte aumenta el rendimiento del espacio y los tiempos de corte.
+              p.mb-0.txp Comprende elementos como mesa, unidad de control, conformado por el ordenador con #[em software]especializado, cabezal de corte, carro extendedor automático. Este tipo de corte aumenta el rendimiento del espacio y los tiempos de corte.
 
 
     separador
@@ -88,7 +88,7 @@
             p.mb-0 Marcación manual o asistida por computador de las piezas que componen los patrones de la prenda. Se deben realizar los trazos por cada material en que se corta, es decir, trazos en telas, forro o entretelas teniendo en cuenta las cantidades y las tallas según la orden de corte.
             br 
             br 
-            p.mb-0 “La marcada es siempre un rectángulo de lado corto igual al ancho del tejido y lado largo el que corresponda una vez distribuidos los patrones encima de la tela” (Giraldo, 1990, pág.9)
+            p.mb-0 “La marcada es siempre un rectángulo de lado corto igual al ancho del tejido y lado largo el que corresponda una vez distribuidos los patrones encima de la tela” (Giraldo, 1990, p.9)
     
     p.mb-5 En el caso del corte troquelado se realiza mediante el uso de plantillas colocadas a presión y se procede a cortar. Es muy importante tener en cuenta el aprovechamiento del espacio en la colocación de los patrones para mejorar el rendimiento de la tela.
 
@@ -111,7 +111,7 @@
             br
             p.mb-0 Las capas forman lo que se denomina colchón o bloque de tela, conforme el trazo y tipo de tendido. Antes de realizar el tendido se debe analizar el tiempo requerido de reposo de las telas para proceder a cortar.
 
-    p.mb-4 De acuerdo con Giraldo (1990, pág. 12) “los tendidos básicos son:
+    p.mb-4 De acuerdo con Giraldo (1990, p. 12) “los tendidos básicos son:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
@@ -127,7 +127,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-12.text-start
               h4.mb-3 Cara a cara girando
-              p.mb-0 Se comienza igual que el tendido a una cara, en el extremo inicial de la marcada. El carro va extendiendo hasta el extremo opuesto donde es cortado el tejido, procediéndose a girar el rollo de tejido antes de volver al principio de la marcada, para empezar a extender la siguiente cara. Por lo tanto, el tejido en la segunda hoja irá cara abajo y en la misma dirección en del hilo que en la primera. Este tendido es el más lento y es recomendado en telas que tienen pelo en su textura tales como panas, gamuzas o terciopelos.
+              p.mb-0 Se comienza igual que el tendido a una cara, en el extremo inicial de la marcada. El carro va extendiendo hasta el extremo opuesto donde es cortado el tejido, procediéndose a girar el rollo de tejido antes de volver al principio de la marcada, para empezar a extender la siguiente cara. Por lo tanto, el tejido en la segunda hoja irá cara abajo y en la misma dirección del hilo que en la primera. Este tendido es el más lento y es recomendado en telas que tienen pelo en su textura tales como panas, gamuzas o terciopelos.
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-12.text-end
               h4.mb-3 Escalonado o escalón
@@ -139,7 +139,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-12.text-end
               h4.mb-3 Lomo
-              p.mb-0  El fin el tendido de tejido al lomo es la usada en el corte manual, es siempre cara arriba, o sus variantes en escalón al doblar la tela y trabajar a doblez de tela.
+              p.mb-0  El fin del tendido de tejido al lomo es la usada en el corte manual, es siempre cara arriba, o sus variantes en escalón al doblar la tela y trabajar a doblez de tela.
     
     p.mb-5 Los dos últimos tipos de tendido son variaciones de los anteriores, pero trabajando con el tejido presentado en distinta forma a la usual de rollo y abierto”.
 
@@ -174,7 +174,7 @@
 
     separador
     #t_2_3.titulo-segundo.mb-5
-      h2 2.3 Operaciones auxiliares de corte. 
+      h2 2.3 Operaciones auxiliares de corte
 
     p.mb-5 Para completar el proceso de corte adecuadamente, se requiere de operaciones adicionales en las cuales interviene personal auxiliar, con el fin de apoyar el proceso.
 
@@ -194,14 +194,14 @@
 
     p.mb-4 Consiste en separar por bloques las piezas cortadas empaquetando una cantidad definida de todas las piezas que conforman la prenda, se amarran y forman paquetes de 10 a 20 unidades, para así facilitar el control de producción y por ende, de calidad.
 
-    p.mb-0 Una vez se empaquete es importante el almacenamiento utilizando técnica de Kanban, para entregar a ensamble.
+    p.mb-0 Una vez se empaquete es importante el almacenamiento utilizando técnica de #[em Kanban,] para entregar a ensamble.
 
 
     separador
     #t_2_4.titulo-segundo.mb-5
       h2 2.4 Tecnología en corte
     
-    p.mb-5 El uso de tecnología en el área de corte se inicia en el proceso de trazo, el cual es asistido por computador con programas de software especializados, los cuales ahorran tiempo y espacio en la producción. Así mismo la tecnología utilizada para el corte, la cual requiere de programas integrados y compatibles, cuya función es comunicar al cabezal de corte las piezas a cortar, acelerando así los ciclos de trabajo y logrando mayor productividad.
+    p.mb-5 El uso de tecnología en el área de corte se inicia en el proceso de trazo, el cual es asistido por computador con programas de #[em software] especializados, los cuales ahorran tiempo y espacio en la producción. Así mismo la tecnología utilizada para el corte, la cual requiere de programas integrados y compatibles, cuya función es comunicar al cabezal de corte las piezas a cortar, acelerando así los ciclos de trabajo y logrando mayor productividad.
 
     .tit.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
@@ -278,7 +278,7 @@
               .tarjeta-numerada__numero
                 .h2 3
               h3.mb-3.mx-3 Rayo láser
-              p.mx-2 El elemento cortante es un haz de luz o rayo láser de alta densidad, el corte que genera es de gran precisión y mucho más rápido debido a al nivel automatizado del proceso.
+              p.mx-2 El elemento cortante es un haz de luz o rayo láser de alta densidad, el corte que genera es de gran precisión y mucho más rápido debido al nivel automatizado del proceso.
 
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
@@ -295,7 +295,7 @@
               img(src='@/assets/curso/tema2/18.png')
           .row.justify-content-center.align-items-center(titulo="Mesas con agujas")
             .col-lg-6.mb-lg-0.mb-4
-              p.mb-0 se utilizan para tejidos que requieren alineación perfecta entre capas, como las telas de rayas, estampados, cuadros, etc. Generan un corte fino y consumen el mínimo de tela. Las agujas tienen un largo de hasta 10 cm, con punta redonda para evitar el daño del tejido.
+              p.mb-0 Se utilizan para tejidos que requieren alineación perfecta entre capas, como las telas de rayas, estampados, cuadros, etc. Generan un corte fino y consumen el mínimo de tela. Las agujas tienen un largo de hasta 10 cm, con punta redonda para evitar el daño del tejido.
             .col-lg-5.col-md-8.col-10
               img(src='@/assets/curso/tema2/19.png')
           .row.justify-content-center.align-items-center(titulo="Bandas transportadoras")

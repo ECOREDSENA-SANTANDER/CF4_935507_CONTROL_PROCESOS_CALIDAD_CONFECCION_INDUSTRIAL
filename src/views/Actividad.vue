@@ -28,30 +28,32 @@ export default {
         {
           id: 1,
           texto:
-            '¿Qué permite el estudio del componente formativo Mantenimiento en máquinas de confección?',
+            '¿Cuál es la finalidad del componente formativo Patronaje, trazo, corte y confección?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Eliminar los procesos de mantenimiento de la planta.',
+              texto:
+                'Reconocer únicamente los insumos decorativos de una prenda.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Identificar piezas, diagnosticar fallas y planear mantenimientos para mejorar la producción.',
+                'Comprender los procesos de patronaje, trazo, corte y confección para relacionarlos con rutas operacionales y calidad.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Reemplazar las normas ISO por instrucciones internas.',
+              texto:
+                'Estudiar solo el empaque y embalaje de productos terminados.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Usar una sola máquina para todas las operaciones de confección.',
+                'Reemplazar la ficha técnica por observaciones verbales del operario.',
               esCorrecta: false,
             },
           ],
@@ -63,31 +65,30 @@ export default {
         {
           id: 2,
           texto:
-            '¿Por qué es necesario identificar las piezas mecánicas de las máquinas?',
+            '¿Qué información debe indicarse en un patrón para su correcta identificación?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Porque permite evitar el uso de fichas técnicas.',
+              texto: 'Solo el color de la tela y el nombre del cliente.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Porque reemplaza la capacitación del personal.',
+              texto: 'Únicamente el precio del producto y la fecha de venta.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Porque ayuda a entender los mecanismos y detectar daños en las máquinas.',
-              esCorrecta: true,
+              texto: 'Solo el nombre del operario que corta la tela.',
+              esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Porque elimina la necesidad de revisar la calidad de la costura.',
-              esCorrecta: false,
+                'Nombre de la pieza, referencia, talla, número de veces a cortar y línea de aplome.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
@@ -97,29 +98,31 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Qué función cumple el árbol en una máquina de confección?',
+          texto:
+            '¿Qué son las convenciones en el área de patronaje industrial?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Toma y transfiere movimiento girando sobre sí mismo en revoluciones completas.',
+                'Símbolos que permiten identificar el patrón o molde según el diseño especificado.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Une dos telas mediante varias puntadas.',
+              texto: 'Máquinas empleadas para realizar cortes automatizados.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Regula únicamente la presión del pie prénsatelas.',
+              texto: 'Técnicas exclusivas para planchar prendas terminadas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Evita que el hilo pase por los discos tensores.',
+              texto:
+                'Formatos utilizados solo para registrar compras de insumos.',
               esCorrecta: false,
             },
           ],
@@ -130,29 +133,29 @@ export default {
         },
         {
           id: 4,
-          texto: '¿Qué caracteriza a la barra como elemento mecánico?',
+          texto:
+            '¿Cuál de las siguientes medidas corresponde a una medida tridimensional del cuerpo?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Es una rueda dentada que transfiere movimiento circular.',
+              texto: 'Largo de falda.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Toma y transfiere movimiento sin girar, trabajando en sentido rectilíneo.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Forma la puntada de cadeneta con recubridor.',
+              texto: 'Ancho de pecho.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto: 'Contorno de cintura.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Funciona únicamente como caja bobina.',
+              texto: 'Largo de talle.',
               esCorrecta: false,
             },
           ],
@@ -164,30 +167,30 @@ export default {
         {
           id: 5,
           texto:
-            '¿Qué función cumple la biela en los mecanismos de la máquina?',
+            'Según la explicación geométrica del cuerpo humano, ¿cómo se trabaja el área del patrón al abrir el cilindro?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Almacenar el hilo inferior de la máquina.',
+              texto: 'Como una línea curva que no requiere simetría.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Sostener el material durante el empaque.',
-              esCorrecta: false,
+              texto:
+                'Como un rectángulo dividido entre posterior y delantero, con base en la simetría corporal.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto:
-                'Transmitir movimiento, convirtiéndolo de circular u oscilante a rectilíneo u oscilante.',
-              esCorrecta: true,
+              texto: 'Como un círculo completo que se corta sin divisiones.',
+              esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Clasificar los tipos de costuras según la norma ISO 4916.',
+                'Como una pieza única sin relación con medidas corporales.',
               esCorrecta: false,
             },
           ],
@@ -199,29 +202,32 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué acción realiza el cigüeñal dentro de los mecanismos de la máquina?',
+            '¿Cuáles son los tres pasos básicos del procedimiento de patronaje manual presentados en el componente?',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Presiona el hilo mediante discos tensores.',
+              texto:
+                'El de producción autoriza qué y cuánto confeccionar; el de transporte autoriza qué y cuánto material retirar del proceso anterior.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Forma el ribete en los bordes de la tela.',
+              texto:
+                'El de producción se usa solo para ventas; el de transporte se usa solo para auditorías externas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Identifica el tipo de puntada en la ficha técnica.',
+              texto:
+                'El de producción elimina los inventarios; el de transporte elimina las fichas técnicas.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Toma movimiento circular y lo cambia en movimiento oscilante.',
+                'El de producción aplica a textiles y el de transporte solo a maquinaria.',
               esCorrecta: true,
             },
           ],
@@ -233,14 +239,30 @@ export default {
         {
           id: 7,
           texto:
-            '¿Qué elemento convierte el movimiento circular uniforme en rectilíneo u oscilante y tiene su centro de giro fuera del centro geométrico?',
+            '¿Qué programas se mencionan como apoyo tecnológico para patronaje, escalado y trazo?',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Excéntrica.', esCorrecta: true },
-            { id: 'b', texto: 'Caja bobina.', esCorrecta: false },
-            { id: 'c', texto: 'Pie prénsatelas.', esCorrecta: false },
-            { id: 'd', texto: 'Planchuela.', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Audaces, Optitex, Lectra y Gerber.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Word, PowerPoint, Outlook y Teams.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Photoshop, Premiere, Canva y CapCut.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'SPSS, SAS, R y Python.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Se evidencia comprensión de los conceptos fundamentales abordados en el componente formativo.',
@@ -249,29 +271,29 @@ export default {
         },
         {
           id: 8,
-          texto: '¿Cuál es la función del mecanismo sistema tensor?',
+          texto: '¿Qué es el escalado en el proceso de patronaje?',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Medir el gramaje de las telas utilizadas.',
+              texto: 'La unión de las piezas por medio de costuras rectas.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Realizar la oposición necesaria al paso del hilo para obtener una tensión óptima.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Cortar las piezas después del trazo.',
+              texto: 'La impresión de etiquetas para identificar paquetes.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto:
+                'El aumento o reducción de cada pieza del patrón aprobado según las tallas.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Clasificar la máquina como familiar o industrial.',
+              texto: 'La revisión final de la prenda antes del empaque.',
               esCorrecta: false,
             },
           ],
@@ -282,29 +304,31 @@ export default {
         },
         {
           id: 9,
-          texto: '¿Qué piezas conforman el mecanismo de arrastre?',
+          texto:
+            '¿Cuál es el inicio del proceso de fabricación en el área de trazo y corte?',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Volante, polea y caja bobina.',
+              texto: 'La plancha industrial.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Botón, cremallera y broche.',
+              texto: 'El bordado decorativo.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Diente, pie, planchuela y soporte de dientes.',
-              esCorrecta: true,
+              texto: 'El proceso de lavandería.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Aguja, hilo, etiqueta y empaque.',
-              esCorrecta: false,
+              texto:
+                'El corte, condicionado por las especificaciones de la prenda.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
@@ -314,31 +338,30 @@ export default {
         },
         {
           id: 10,
-          texto:
-            '¿Qué debe verificarse en la planchuela para evitar fallas en la formación de la puntada?',
+          texto: '¿Qué caracteriza al corte automático?',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Que tenga el color indicado por el diseño.',
+              texto: 'Utiliza solo tijeras de ocho pulgadas y moldes manuales.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Que reemplace el gancho rotatorio.',
-              esCorrecta: false,
+              texto:
+                'Comprende mesa, unidad de control, <em>software</em> especializado, cabezal de corte y carro extendedor automático.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Que tenga únicamente aberturas decorativas.',
+              texto: 'Se realiza únicamente con alfileres, pinzas y pesas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'Que esté libre de asperezas, obstrucciones y rebordes cortantes.',
-              esCorrecta: true,
+              texto: 'No requiere trazo, tendido ni control de calidad.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
@@ -348,30 +371,29 @@ export default {
         },
         {
           id: 11,
-          texto:
-            '¿Qué función cumplen los dientes en el mecanismo de arrastre?',
+          texto: '¿Qué es el trazo o marca en el proceso de corte?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Sobresalir de la planchuela y transportar el material durante la costura.',
+                'La marcación manual o asistida por computador de las piezas que componen los patrones de la prenda.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Guardar el hilo inferior dentro del gancho rotatorio.',
+              texto: 'La unión final de las piezas preparadas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Realizar costuras ribeteadas según la norma ISO 4916.',
+              texto: 'El proceso de eliminar arrugas con calor.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Definir el nombre comercial de la tela.',
+              texto: 'La clasificación de defectos en prendas terminadas.',
               esCorrecta: false,
             },
           ],
@@ -382,15 +404,31 @@ export default {
         },
         {
           id: 12,
-          texto:
-            '¿Qué elemento tomador de lazada se usa en fileteadora, recubridora, cerradora de codo, multiagujas y empretinadora?',
+          texto: '¿En qué consiste el tendido de la tela?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Volante.', esCorrecta: false },
-            { id: 'b', texto: 'Looper.', esCorrecta: true },
-            { id: 'c', texto: 'Piqueteadora.', esCorrecta: false },
-            { id: 'd', texto: 'Papel manifold.', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'En doblar y empacar las prendas terminadas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'En colocar botones y ojales al producto final.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto:
+                'En estirar capas de tela uniformemente sobre la mesa de corte según el trazo.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'En registrar el glosario técnico de la ficha.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Se evidencia comprensión de los conceptos fundamentales abordados en el componente formativo.',
@@ -399,32 +437,30 @@ export default {
         },
         {
           id: 13,
-          texto: '¿Cuál es la diferencia entre puntada y costura?',
+          texto:
+            '¿Qué tipo de tendido se recomienda para telas con estampados, líneas y cuadros?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'La puntada es una herramienta y la costura es una norma técnica.',
+              texto: 'Tendido tubular.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La puntada solo aplica al corte y la costura al empaque.',
+              texto: 'Tendido al lomo.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'La puntada es el enlace de hilos, y la costura reúne varias puntadas en uno o más materiales.',
-              esCorrecta: true,
+              texto: 'Tendido escalonado.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'La puntada se usa en mantenimiento y la costura solo en patronaje.',
-              esCorrecta: false,
+              texto: 'Tendido cara arriba.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
@@ -434,30 +470,30 @@ export default {
         },
         {
           id: 14,
-          texto: '¿Qué establece la norma ISO 4915?',
+          texto:
+            '¿Qué operación consiste en rotular cada pieza cortada con lote, nombre de la pieza, talla y consecutivo?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Los pasos para elaborar un diagrama de Gantt.',
-              esCorrecta: false,
+              texto: 'Tiqueteado.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'La frecuencia de limpieza de los tanques de aceite.',
+              texto: 'Fusionado.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Las áreas donde se guardan las herramientas de corte.',
+              texto: 'Doblado.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'La clasificación, designación, descripción e ilustración de las puntadas.',
-              esCorrecta: true,
+              texto: 'Planchado.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
@@ -468,30 +504,28 @@ export default {
         {
           id: 15,
           texto:
-            '¿A qué corresponde la serie 300 de puntadas según la ISO 4915?',
+            '¿Qué operación auxiliar adhiere la entretela a la tela por medio de presión y calor?',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Puntadas de doble pespunte realizadas con aguja y gancho rotatorio.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Puntadas manuales o artesanales con agujas de crochet.',
+              texto: 'Empaquetado.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Fusionado.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'Puntadas de sobrehilado desarrolladas en fileteadora.',
+              texto: 'Transporte.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'Puntadas de cadeneta sencilla realizadas con un solo hilo.',
+              texto: 'Almacenamiento.',
               esCorrecta: false,
             },
           ],
@@ -502,31 +536,30 @@ export default {
         },
         {
           id: 16,
-          texto: '¿Qué clasifica la norma ISO 4916?',
+          texto:
+            '¿Cuál máquina de corte convencional se caracteriza por tener cuchilla en forma de disco y servir para pocas capas o prototipos?',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Las fibras textiles de origen natural y sintético.',
+              texto: 'Cortadora vertical.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Las secciones transversales de los materiales y los tipos de costuras cosidas.',
-              esCorrecta: true,
+              texto: 'Cortadora sin fin.',
+              esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Los tipos de motores eléctricos usados en las máquinas familiares.',
+              texto: 'Cortadora de extremos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Las herramientas de patronaje, trazo y corte.',
-              esCorrecta: false,
+              texto: 'Cortadora circular.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
@@ -537,31 +570,28 @@ export default {
         {
           id: 17,
           texto:
-            '¿Qué busca la metodología Mantenimiento Productivo Total (TPM)?',
+            '¿Qué tecnología de corte utiliza un sonotrodo para evitar que los bordes se desflequen?',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Realizar mantenimiento solo cuando la máquina se detiene.',
-              esCorrecta: false,
+              texto: 'Ultrasonido.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto:
-                'Eliminar la participación del operario en el cuidado de la máquina.',
+              texto: 'Cortadora de extremos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Mejorar la efectividad de los equipos con trabajo en equipo y corresponsabilidad en el mantenimiento.',
-              esCorrecta: true,
+              texto: 'Mesa con agujas.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Sustituir las normas ISO 4915 e ISO 4916.',
+              texto: 'Carro manual.',
               esCorrecta: false,
             },
           ],
@@ -572,31 +602,31 @@ export default {
         },
         {
           id: 18,
-          texto: '¿Qué caracteriza al mantenimiento correctivo?',
+          texto:
+            'En los diagramas de flujo de procesos, ¿qué representa el símbolo de inspección?',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Se realiza antes de que aparezca cualquier falla.',
+              texto: 'El traslado de un objeto de un lugar a otro.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Lo ejecuta únicamente el operario sin diagnóstico previo.',
+              texto: 'El momento de espera antes de continuar la actividad.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Tiene como meta reemplazar el plan de mantenimiento.',
-              esCorrecta: false,
+              texto:
+                'El examen de un objeto para su identificación o comprobación de cantidad o calidad.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto:
-                'Se realiza durante la producción para solucionar una falla en el menor tiempo posible.',
-              esCorrecta: true,
+              texto: 'El momento en que se transforma la materia prima.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
@@ -606,33 +636,31 @@ export default {
         },
         {
           id: 19,
-          texto: '¿Qué caracteriza al mantenimiento preventivo?',
+          texto:
+            '¿Cuáles son las cuatro partes principales de la ficha técnica mencionadas en el componente?',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Se realiza de manera anticipada a la falla e integra al personal mediante capacitación y mantenimiento autónomo.',
-              esCorrecta: true,
+              texto: 'Tela, hilo, botón y cremallera.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Se aplica solo cuando la máquina ya no puede continuar trabajando.',
+              texto: 'Trazo, corte, confección y empaque.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Consiste únicamente en cambiar repuestos sin programación.',
+              texto: 'Patronaje, escalado, tendido y destrozado.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Elimina la limpieza, lubricación y documentación del proceso.',
-              esCorrecta: false,
+                'Rótulo, cuerpo de la ficha, control del documento y glosario.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
@@ -643,31 +671,28 @@ export default {
         {
           id: 20,
           texto:
-            '¿Para qué sirve el plan de mantenimiento apoyado en herramientas como el diagrama de Gantt?',
+            '¿Qué grupos de operaciones se usan para organizar la confección de prendas como camisa, pantalón, polo, sudadera, <em>panty</em>, <em>bóxer</em>, chaqueta y jean?',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Para seleccionar colores de las prendas según la temporada.',
+              texto: 'Diseño, compras y ventas.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Para organizar actividades, responsables, recursos, duración y seguimiento del mantenimiento.',
+              texto: 'Preparación, ensamble y terminados.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto:
-                'Para reemplazar las listas de chequeo y la ficha de cada máquina.',
+              texto: 'Almacenamiento, demora y transporte.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Para definir únicamente el precio de los repuestos.',
+              texto: 'Moldería, fotografía y publicidad.',
               esCorrecta: false,
             },
           ],

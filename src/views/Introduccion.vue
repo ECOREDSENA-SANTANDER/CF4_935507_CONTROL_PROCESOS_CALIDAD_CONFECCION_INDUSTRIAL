@@ -20,7 +20,7 @@
         .bg1.p-4
           p.mb-0 Por ello es necesario comprender y describir los procesos de patronaje, corte y trazo para relacionarlos con los procesos de confección, con el fin de determinar las diversas rutas operacionales de acuerdo con las líneas de producto y la tecnología disponible para realizar procesos de confección de calidad.
 
-    p.mb-0(data-aos="fade-left") En el patronaje industrial “cada pieza del patrón modelo debe contener toda la información necesaria, dirección en la que se ubica el patrón sobre la tela, cantidad de piezas por modelo, la simetría, el nombre de la pieza y el nombre del modelo al que pertenece” (Carrera de Diseño y Gestión en Moda, 2015, pág. 9), de forma que conocer e interpretar la señalización de patrones es fundamental en los procesos de control de calidad.
+    p.mb-0(data-aos="fade-left") En el patronaje industrial, cada pieza del patrón modelo debe incluir la información necesaria para orientar el proceso, como la ubicación sobre la tela, la cantidad de piezas por modelo, la simetría, el nombre de la pieza y el nombre del modelo al que pertenece (Carrera de Diseño y Gestión en Moda, 2015). Por ello, conocer e interpretar la señalización de patrones es fundamental en los procesos de control de calidad.
 
 
 </template>

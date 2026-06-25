@@ -165,134 +165,34 @@
             .col-lg-12
               p.mb-4 Debe tener logotipo de la empresa, nombre del producto, fechas de elaboración de la muestra, persona encargada de diseño, patronaje, producción, compras, calidad según el área, línea del producto (deportiva, exterior, interior, infantil, femenino, masculino).
               .titulo-sexto
-                h5 Tabla 1.
-                | Ejemplo rótulo
-              .tabla-a.tab1
-                table
-                  thead
-                    tr
-                      th.logo-cell(rowspan="2") Logo de la empresa
-                      th(colspan="5") Nombre de la empresa
-                    tr
-                      th(colspan="5") Ficha técnica diseño
-                  tbody
-                    tr.bgw
-                      td Referencia
-                      td
-                      td Prenda
-                      td
-                      td Fecha solicitud
-                      td
-                    tr.bgw
-                      td Molde
-                      td
-                      td Línea
-                      td
-                      td Fecha elaboración
-                      td
-                    tr.bgw
-                      td Diseñador
-                      td
-                      td Talla base
-                      td
-                      td Año muestrario
-                      td
-                    tr.bgw
-                      td Tipo de empaque
-                      td(colspan="5")
-                    tr.bgw
-                      td Descripción de la prenda
-                      td(colspan="5")
+                h5 Figura 13.
+                | Ejemplo de rótulo de ficha técnica de diseño
+              img(src='@/assets/curso/tema3/24.svg', alt=' Formato de rótulo de ficha técnica de diseño. Incluye espacios para el logo de la empresa, nombre de la empresa, referencia, prenda, fecha de solicitud, molde, línea, fecha de elaboración, diseñador, talla base, año muestrario, tipo de empaque y descripción de la prenda.')
           .row.align-items-center(titulo="Cuerpo de la ficha")
             .col-lg-12
               p.mb-4 Describe las especificaciones de cada proceso, organizado en el orden del desarrollo de la confección: plano de diseño, patronaje, producción, calidad.
               .titulo-sexto
-                h5 Tabla 2.
-                | Ejemplo cuerpo de la ficha
-              .tabla-a.tab2
-                table
-                  thead
-                    tr
-                      th.logo-cell(rowspan="2") Logo de la empresa
-                      th(colspan="5") Nombre de la empresa
-                    tr
-                      th(colspan="5") Ficha técnica diseño
-                  tbody
-                    tr.bgw
-                      td Referencia
-                      td
-                      td Prenda
-                      td
-                      td Fecha solicitud
-                      td
-                    tr.bgw
-                      td Molde
-                      td
-                      td Línea
-                      td
-                      td Fecha elaboración
-                      td
-                    tr.bgw
-                      td Diseñador
-                      td
-                      td Talla base
-                      td
-                      td Año muestrario
-                      td
-                    tr.bgw
-                      td Tipo de empaque
-                      td(colspan="5")
-                    tr.bgw
-                      td Descripción de la prenda
-                      td(colspan="5")
-                  tfoot
-                    tr.bgw
-                      td.plano-title(colspan="6") Plano de diseño
-                    tr.bgw
-                      td(colspan="6").plano-area &nbsp;
+                h5 Figura 14.
+                | Ejemplo del cuerpo de la ficha técnica de diseño
+              img(src='@/assets/curso/tema3/25.svg', alt='Formato del cuerpo de una ficha técnica de diseño. Presenta campos para logo de la empresa, nombre de la empresa, referencia, prenda, fecha de solicitud, molde, línea, fecha de elaboración, diseñador, talla base, año muestrario, tipo de empaque, descripción de la prenda y espacio para el plano de diseño.')
           .row.align-items-center(titulo="El control del documento ")
             .col-lg-12
               p.mb-4 Identifica a los responsables en el proceso de elaboración de la ficha técnica en las etapas de elaboración, revisión y aprobación del documento.
-              .titulo-sexto
-                h5 Tabla 3.
-                | Ejemplo control del documento
-              .tabla-a.tab3
-                table
-                  thead
-                    tr
-                      th(colspan="3") Control del documento
-                  tbody
-                    tr.bgw
-                      td Elaborado por
-                      td Recisado por
-                      td Aprobado por
-                    tr.bgw
-                      td
-                      td
-                      td
+              .row.justify-content-center.align-items-center
+                .col-lg-8
+                  .titulo-sexto
+                    h5 Figura 15.
+                    | Ejemplo de control del documento
+                  img(src='@/assets/curso/tema3/26.svg', alt='Formato de control del documento de una ficha técnica. Presenta los campos de elaborado por, revisado por y aprobado por, utilizados para identificar a los responsables de elaboración, revisión y aprobación del documento.')
           .row.align-items-center(titulo="Glosario")
             .col-lg-12
               p.mb-4 Lista los términos y expresiones utilizadas en el documento y organizadas en orden alfabético, de forma que permite la total comprensión del documento.
-              .titulo-sexto
-                h5 Tabla 4.
-                | Ejemplo glosario
-              .tabla-a.tab4
-                table
-                  thead
-                    tr
-                      th Logo de la empresa
-                      th(colspan="3") Glosario técnico
-                  tbody
-                    tr.bgw
-                      td Término
-                      td Definición
-                      td Término
-                      td Definición
-                    tr.bgw
-                      td Término
-                      td Definición
-                      td Término
-                      td Definición
+              .row.justify-content-center.align-items-center
+                .col-lg-8
+                  .titulo-sexto
+                    h5 Figura 16.
+                    | Ejemplo de glosario técnico
+                  img(src='@/assets/curso/tema3/26.svg', alt='Formato de glosario técnico de una ficha técnica. La imagen presenta un espacio para el logo de la empresa y una tabla de ejemplo organizada en columnas para registrar términos técnicos y sus respectivas definiciones.')
     
     p.mb-4 A continuación se muestran las partes que componen la ficha técnica de producción de una blusa camisera de dama de acuerdo con el proceso:
 
@@ -605,7 +505,7 @@
 
     .tit.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0 Confección panty dama
+      h3.mb-0 Confección #[em panty] dama
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -614,7 +514,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/19.png')})`}"
           )
           .bloque-texto-g__texto.p-4.p-lg-5
-            p.mb-0 En el mercado existen cada vez mejores atributos y funcionalidades en este tipo de prendas, sirven de ejemplo, pantys control de abdomen o pantys cero costuras. Las máquinas donde se realizan el ensamble son fileteadoras de tres hilos, recubridoras con dosificadores, fólderes sesgadores con dosificación de elástico, zigzadoras y presilladoras.
+            p.mb-0 En el mercado existen cada vez mejores atributos y funcionalidades en este tipo de prendas, sirven de ejemplo, #[em pantys] control de abdomen o #[em pantys] cero costuras. Las máquinas donde se realizan el ensamble son fileteadoras de tres hilos, recubridoras con dosificadores, fólderes sesgadores con dosificación de elástico, zigzadoras y presilladoras.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -635,7 +535,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2DkN1Ur5Dw0?si=ST0suG9DD1lubQeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Panty tanga
+        figcaption Video. #[em Panty] tanga
     
     .tit.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
@@ -649,7 +549,7 @@
           .col-lg-2.col-md-2.col-5
             img.mb-lg-0.mb-md-0.mb-4.img-t.img-a(src='@/assets/curso/intro/2.svg')
           .col-lg-10.col-md-10
-            p.mb-0 La prenda requiere de máquina fileteadora con 3 o 4 hilos, con dosificadores de elástico, recubridoras con dosificador de elástico, y presilladora. Este tipo de prendas se pueden ensamblar en la máquina flat seamer, que les da más seguridad a las costuras.
+            p.mb-0 La prenda requiere de máquina fileteadora con 3 o 4 hilos, con dosificadores de elástico, recubridoras con dosificador de elástico, y presilladora. Este tipo de prendas se pueden ensamblar en la máquina #[em flat seamer], que les da más seguridad a las costuras.
         ul.lista-ul.mb-0.mx-lg-2 
           li.d-flex.mb-3
             i.fas.fa-bolt
@@ -666,7 +566,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/cZ2lyqcUjqg?si=aZjJM54HBLYJyOVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Boxer pijamero
+        figcaption Video. #[em Boxer] pijamero
 
     separador
     #t_3_4.titulo-segundo.mb-5

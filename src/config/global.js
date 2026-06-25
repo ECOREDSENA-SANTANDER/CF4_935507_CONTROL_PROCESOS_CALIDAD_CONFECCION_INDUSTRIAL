@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Patronaje, trazo, corte y confección',
     Description:
-      'Comprender y describir los procesos de patronaje, corte y trazo, relacionar procesos de confección para determinar ruta operacional de las prendas en las diferentes líneas de productos. Interpretar terminología técnica de los procesos en patronaje, corte y confección. Descripción de aplicación de avance tecnológico en los procesos, comparación y relación de las tecnologías en los procesos. Interpretación señalización de patrones. Trazar patrones básicos. Ejemplificar procesos de ensamble de prendas en diferentes líneas de productos.',
+      'En este componente formativo se abordan los procesos de patronaje, trazo, corte y confección industrial como etapas fundamentales para asegurar la calidad de las prendas. A través del reconocimiento de la terminología técnica, la interpretación de patrones, la identificación de señales, el análisis de tecnologías aplicadas y la relación entre las operaciones de ensamble, se fortalece la comprensión de la ruta operacional en diferentes líneas de producto, de acuerdo con las especificaciones técnicas y los requerimientos del proceso productivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -194,7 +194,7 @@ export default {
     {
       termino: 'Mariposa',
       significado:
-        'pieza del panty ubicada entre el tiro y la entrepierna para proteger y dar comodidad en la parte íntima femenina.',
+        'pieza del <em>panty</em> ubicada entre el tiro y la entrepierna para proteger y dar comodidad en la parte íntima femenina.',
     },
     {
       termino: 'Nido',
@@ -234,59 +234,55 @@ export default {
   referencias: [
     {
       referencia: 'A5 Proyect Group (2020). Máquinas de corte automático.',
-      link:
-        'http://www.grupoa5.com/productos/maquinas-de-corte/industria-textil-y-de-moda/',
+      link: '',
     },
     {
       referencia:
         'Amaden-Crawford, C. (2014). Confección de moda: técnicas básicas. Vol. 2. Editorial Gustavo Gili.',
-      link:
-        'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/reader.action?docID=4421905.',
+      link: '',
     },
     {
       referencia: 'Audaces Pattern. Audaces. (2020).',
-      link: 'https://www.audaces.com/en/audaces-360/moldes/.',
+      link: '',
     },
     {
       referencia:
         'Carrera de Diseño y Gestión en Moda. (2015). Técnicas de patronaje. Tomo I: Mujer. Universidad Peruana de Ciencias Aplicadas (UPC).',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/41322?page=10',
+      link: '',
     },
     {
       referencia:
         'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3 SENA – Repositorio institucional.',
-      link: 'https://hdl.handle.net/11404/1432',
+      link: '',
     },
     {
       referencia:
         'Duarte, N. E. (1984). Toma de medidas para falda. SENA - Repositorio institucional',
-      link: 'https://hdl.handle.net/11404/893',
+      link: '',
     },
     {
       referencia:
         'Durán Portillo, D. (2013). Preparación de máquinas de corte, ensamblado y acabado (UF1034). IC Editorial.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/43646?page=2',
+      link: '',
     },
     {
       referencia:
         'Giraldo, M. (1990). Procesos básicos en la sala de corte. SENA',
-      link: 'https://hdl.handle.net/11404/4259',
+      link: '',
     },
     {
       referencia:
         'Giraldo, M. (1990). Selección de las máquinas para sala de corte. SENA.',
-      link: 'https://hdl.handle.net/11404/4258',
+      link: '',
     },
     {
       referencia:
         'OPTITEX, (2020). PATTERN DESIGN SOFTWARE INTEGRADO EN 2D Y 3D.',
-      link: 'https://optitex.com/es/products/cutplan/.',
+      link: '',
     },
     {
       referencia: 'OPTITEX. (2020). CUTPLAN',
-      link: 'https://optitex.com/es/products/cutplan/',
+      link: '',
     },
   ],
   creditos: [
@@ -364,14 +360,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Erika Daniela Manrique Rueda',
+          nombre: 'Yineth González Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },

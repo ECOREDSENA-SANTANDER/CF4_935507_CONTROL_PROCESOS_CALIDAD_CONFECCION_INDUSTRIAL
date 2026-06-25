@@ -21,7 +21,7 @@
         .col-lg-7(data-aos="fade-left")
           .p-4
             img.mb-3.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/2.svg', alt='')
-            p.mb-4(data-aos="fade-left") La comunicación es primordial para el logro de los objetivos de una empresa, por lo tanto todas las áreas de la planta deben definir e identificar los conceptos propios del proceso para su aplicación en una determinada sección sin inconvenientes y no alterar la calidad de la prenda al momento de avanzar en las diferentes secciones o áreas de producción.
+            p.mb-4(data-aos="fade-left") La comunicación es primordial para el logro de los objetivos de una empresa, por lo tanto, todas las áreas de la planta deben definir e identificar los conceptos propios del proceso para su aplicación en una determinada sección sin inconvenientes y no alterar la calidad de la prenda al momento de avanzar en las diferentes secciones o áreas de producción.
             p.mb-0(data-aos="fade-right") El patronaje es la técnica de desarrollo de las plantillas resultado de la interpretación del diseño de la prenda, tiene en cuenta las medidas del cuerpo, las cuales pueden ser tridimensionales o bidimensionales. De acuerdo con la industrialización del proceso se hace necesario convenir en el uso de términos y de símbolos, es necesario que se maneje un lenguaje técnico relacionado al proceso, como por ejemplo, hilo de tela, línea de aplome, ampliaciones, desahogos, entre otros para su aplicación en el procedimiento.
     
     .tarjeta.color-acento-contenido.des.p-4.mb-5(data-aos="fade-left")
@@ -68,7 +68,7 @@
         .bg4.p-4.mb-0
           .titulo-sexto
             h5 Figura 1. 
-            | Patrón de confección de prenda con piezas de delantero, espalda y manga.
+            | Patrón de confección de prenda con piezas de delantero, espalda y manga
           img.img-a.img-t(src='@/assets/curso/tema1/4.svg', alt='Ilustración de una mujer señalando un tablero con moldes de confección de una prenda. En el tablero aparecen tres piezas del patrón: delantero, espalda y manga, cada una con líneas de referencia, pinzas y flechas verticales indicando dirección. Los textos visibles dicen “Delantero referencia 02-102 talla 10 x-2”, “Espalda referencias 02-102 talla 10 x-1” y “Manga referencias 02-102 talla 10 x-2”. El fondo es gris claro y el tablero tiene un tono azul claro.')
 
     p.mb-4(data-aos="fade-right") Las convenciones son símbolos para poder identificar el patrón o molde y las claves geométricas también se requieren para poder desarrollar cada pieza, conforme al diseño especificado.
@@ -92,7 +92,7 @@
 
     separador
     #t_1_2.titulo-segundo.mb-5
-      h2 1.2 Especificaciones técnicas de patronaje, medidas y cuadro de tallas, proporciones del cuerpo humano.
+      h2 1.2 Especificaciones técnicas de patronaje, medidas y cuadro de tallas, proporciones del cuerpo humano
     
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-lg-12
@@ -114,7 +114,7 @@
         .bg4.p-4.mb-0
           .titulo-sexto
             h5 Figura 2. 
-            | Medidas corporales para confección de falda.
+            | Medidas corporales para confección de falda
           img.img-a.img-t(src='@/assets/curso/tema1/21.svg', alt='Figura que explica las medidas corporales necesarias para la confección de una falda. Incluye cuatro ilustraciones de una figura femenina con una falda verde y el patrón de la prenda. Se identifican las medidas de contorno de cintura, largo de falda, contorno de cadera y separación del busto mediante flechas y líneas de referencia sobre el cuerpo y el molde.')
 
     p.mb-4(data-aos="fade-right") Los materiales y herramientas para desarrollar manualmente los patrones son papel molde o manifold, tijeras de papel, portaminas, borrador, micropuntas de colores, pegante en barra, rodaja, punzón y las reglas de patronaje.
@@ -138,7 +138,7 @@
             h5 Figura 4. 
             | Representación del cuerpo humano a partir de un cilindro
           img.img-a.img-t(src='@/assets/curso/tema1/7.svg', alt='Diagrama explicativo en tres pasos sobre la construcción de patrones de confección a partir de una figura cilíndrica. La primera imagen muestra un cilindro que envuelve el cuerpo humano con una línea vertical punteada y marcas de corte. La segunda muestra el cilindro cortado por la mitad. La tercera presenta un rectángulo desplegado que representa el área que cubre el cuerpo humano, con indicaciones de “Centro espalda” y “Centro delantero”. El fondo es gris claro y las líneas guía son verdes.')
-        figcaption #[b Fuente:] (Carrera de diseño y gestión en moda, 2015, pág 10)
+        figcaption #[b Fuente:] (Carrera de diseño y gestión en moda, 2015, p. 10)
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")          
       .col-lg-12
@@ -178,7 +178,7 @@
             img.mb-lg-0.mb-md-0.mb-4.img-t.img-a(src='@/assets/curso/tema1/9.svg')
           .col-lg-10.col-md-10
             p.mb-0 El espacio para realizar la actividad de patronaje debe contar con una mesa plana de trabajo uniforme, suficiente para colocar pliegos de papel manifold o cartón cartulina, sus materiales y herramientas en el caso que sea de manera manual; el patronaje requiere precisión en el trazo de las líneas y curvas, aplicar correctamente las medidas y cortar los patrones según el paso a paso del desarrollo del molde. A partir de las medidas del patrón una vez desarrollado, se trazan además los anchos de costuras alrededor del trazo de cada pieza. De allí el cuadro de medidas de prenda terminada y de patrones para luego ejecutar el control de calidad.
-        p.mb-0 Además de la opción de realizar el patronaje manual, actualmente se utilizan programas de software especializados en los que se desarrolla el patronaje, el escalado y trazo de las prendas. Los más utilizados son #[b Audaces, Optitex, Lectra, Gerber,,] entre otros, los cuales optimizan el tiempo de las actividades en un alto porcentaje.
+        p.mb-0 Además de la opción de realizar el patronaje manual, actualmente se utilizan programas de #[em software] especializados en los que se desarrolla el patronaje, el escalado y trazo de las prendas. Los más utilizados son #[b Audaces, Optitex, Lectra, Gerber,] entre otros, los cuales optimizan el tiempo de las actividades en un alto porcentaje.
     
     p.mb-4(data-aos="fade-left") Los anchos de costura aplicados, dependen del tipo de costura y conforme a las normas de calidad en el proceso industrializado, en donde se considera un (1) cm de ancho de costura, pero además se debe tener en cuenta el ajuste y características de las máquinas, por ejemplo, el ancho de un sobrehilado puede variar según el ajuste por tanto puede afectar las medidas de los contornos en una camiseta cuando se unan a los costados, de allí puede ser 0,5 cm o 0,7 cm el ancho de costura, variando 2 mm que en total del contorno equivale a 2mm x 4mm = 8 mm, es decir casi un centímetro lo que afectará las medidas de prenda terminada.
 
@@ -198,7 +198,7 @@
                   ul.lista-ul.mb-0
                     li.d-flex.mb-2
                       i.fas.fa-bolt
-                      p.mb-0 Tomar con la cita métrica las medidas requeridas según el patrón a partir de los puntos corporales de referencia.
+                      p.mb-0 Tomar con la cinta métrica las medidas requeridas según el patrón a partir de los puntos corporales de referencia.
                     li.d-flex.mb-2
                       i.fas.fa-bolt
                       p.mb-0 Realizar medidas de contornos las cuales se toman alrededor del cuerpo (tridimensionales).   
@@ -248,7 +248,7 @@
                   p.mb-0 Ensamblar el prototipo o muestra.
                 li.d-flex.mb-2
                   i.fas.fa-boltt
-                  p.mb-0 Analizar y evaluar muestra treminada.
+                  p.mb-0 Analizar y evaluar muestra terminada.
                 li.d-flex.mb-2
                   i.fas.fa-boltt
                   p.mb-0 Realizar ajustes.
@@ -257,7 +257,7 @@
                   p.mb-0 Proceder con la segunda muestra o prototipo.
                 li.d-flex.mb-0
                   i.fas.fa-boltt
-                  p.mb-0 Aprobar el patron una vez cumpla con los requisitos.
+                  p.mb-0 Aprobar el patrón una vez cumpla con los requisitos.
 
     p.mb-4(data-aos="fade-right") Una vez se aprueba el prototipo o muestra, desarrollado de forma manual o asistido por computador, se procede a realizar el escalado de cada pieza que compone el patrón, como lo muestra la figura, a lo cual se le denomina nido.
 
@@ -309,7 +309,7 @@
                 span Descargar 
                 i.fas.fa-file-download
 
-    p.mb-4 A continuación se observa a continuación se identifica el patrón básico de corpiño femenino.
+    p.mb-4 A continuación, se identifica el patrón básico de corpiño femenino.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -381,7 +381,7 @@
         .bg4.p-4.mb-2
           .titulo-sexto
             h5 Figura 8. 
-            | patrón básico de torso masculino.
+            | Patrón básico de torso masculino
           img.img-a.img-t(src='@/assets/curso/tema1/20.svg', alt='Página educativa sobre patronaje básico masculino. En la parte superior aparece el título “patrón básico de torso masculino” acompañado de un texto explicativo y una nota instructiva. En el centro se muestra la Figura 7, un diagrama técnico del patrón básico de torso masculino con piezas del delantero y espalda identificadas como CF y CA. El esquema incluye líneas de construcción, curvas de sisa y cuello, medidas proporcionales, referencias de hombro, centro atrás y divisiones matemáticas utilizadas para elaborar el patrón.')
 
 
