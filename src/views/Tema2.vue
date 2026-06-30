@@ -65,7 +65,7 @@
                   img.img-t.img-a.mtop.rot(src='@/assets/curso/tema2/up.svg' alt="")
                 .col-lg-10
                   h5.mb-3.txp Automático
-              p.mb-0.txp Comprende elementos como mesa, unidad de control, conformado por el ordenador con #[em software]especializado, cabezal de corte, carro extendedor automático. Este tipo de corte aumenta el rendimiento del espacio y los tiempos de corte.
+              p.mb-0.txp Comprende elementos como mesa, unidad de control, conformado por el ordenador con #[em software] especializado, cabezal de corte, carro extendedor automático. Este tipo de corte aumenta el rendimiento del espacio y los tiempos de corte.
 
 
     separador
@@ -123,7 +123,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-12.text-end
               h4.mb-3 Cara a cara (zigzag)
-              p.mb-0 El comienzo puede iniciarse en cualquiera de los extremos de la marcada. Al igual que en el caso anterior el cabo de la tela se deposita en el extremo elegido y la maquinaria se desliza hacia el otro extremo, dejando el tejido al mismo tiempo. Al llegar al extremo opuesto, este es doblado y el carro retrocede extendiendo al mismo tiempo y así sucesivamente. Es el tendido más rápido y es típico de telas lisas y en denim.
+              p.mb-0 El comienzo puede iniciarse en cualquiera de los extremos de la marcada. Al igual que en el caso anterior el cabo de la tela se deposita en el extremo elegido y la maquinaria se desliza hacia el otro extremo, dejando el tejido al mismo tiempo. Al llegar al extremo opuesto, este es doblado y el carro retrocede extendiendo al mismo tiempo y así sucesivamente. Es el tendido más rápido y es típico de telas lisas y en #[em denim.]
           .row.justify-content-center.align-items-center.mb-0
             .col-lg-12.text-start
               h4.mb-3 Cara a cara girando
@@ -306,7 +306,7 @@
           .row.justify-content-center.align-items-center(titulo="<em>Software</em>")
             .col-lg-6.mb-lg-0.mb-4
               p.mb-4 Los programas especializados de AUDACES, GERBER, OPTITEX O LECTRA, cuentan con módulos especializados en trazo para facilitar el corte de las prendas, los hace más precisos, disminuye desperdicios de materia prima y optimiza los tiempos de producción.
-              p.mb-0 Se requiere además del computador y el programa, un plotter para poder imprimir los trazos. Pero en el caso que el corte sea automático, el cabezal va cortando sobre la tela directamente sin necesidad de impresión previa del trazo.
+              p.mb-0 Se requiere además del computador y el programa, un #[em plotter] para poder imprimir los trazos. Pero en el caso que el corte sea automático, el cabezal va cortando sobre la tela directamente sin necesidad de impresión previa del trazo.
             .col-lg-5.col-md-8.col-10
               img(src='@/assets/curso/tema2/21.png')
 

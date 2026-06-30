@@ -442,7 +442,7 @@
 
     .tit.mb-5(data-aos="fade-right")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
-      h3.mb-0 Confección de camiseta tipo polo.
+      h3.mb-0 Confección de camiseta tipo polo
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-lg-0.mb-4
@@ -572,7 +572,7 @@
     #t_3_4.titulo-segundo.mb-5
       h2 3.4. Confección de productos para línea con especialidad en ropa jean
     
-    p.mb-4 Estas son prendas con gran posicionamiento en el mercado, son muy utilizadas en general por todas las líneas y edades. Algunos ejemplos de prendas en tela denim son pantalones, shorts, faldas, chalecos, overoles.
+    p.mb-4 Estas son prendas con gran posicionamiento en el mercado, son muy utilizadas en general por todas las líneas y edades. Algunos ejemplos de prendas en tela #[em denim] son pantalones, #[em shorts], faldas, chalecos, overoles.
     
     p.mb-5 Se ha desarrollado tecnología en las operaciones de ensamble, pero también en procesos de terminados como los de lavandería.
 
@@ -589,7 +589,7 @@
             img(src='@/assets/curso/tema3/22.svg', alt='')
           .col-lg-7
             .bg13.mb-0.p-lg-5.p-4.cen
-              p.mb-0.text-white.mt-lg-2.mb-lg-2(data-aos="fade-left") Prenda superior con costuras realizadas en máquinas cerradora de codo, empretinadora, plana dos agujas y las máquinas básicas plana una aguja y fileteadora de 5 hilos, ojaladora de lágrima, troqueladora.
+              p.mb-0.text-white.mt-lg-2.mb-lg-2(data-aos="fade-left") Prenda superior con costuras realizadas en máquinas cerradoras de codo, empretinadora, plana dos agujas y las máquinas básicas plana una aguja y fileteadora de 5 hilos, ojaladora de lágrima, troqueladora.
         ul.lista-ul.mb-0.mx-lg-5
           li.d-flex.mb-4
             i.fas.fa-bolt
