@@ -143,7 +143,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF4_935507_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -157,14 +157,6 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
-    },
-  ],
   glosario: [
     {
       termino: 'Ampliaciones',
