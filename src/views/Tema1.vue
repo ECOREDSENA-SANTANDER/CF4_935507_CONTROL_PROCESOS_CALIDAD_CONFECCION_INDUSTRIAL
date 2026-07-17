@@ -381,7 +381,7 @@
           .titulo-sexto
             h5 Figura 8. 
             | Patrón básico de torso masculino
-          img.img-a.img-t(src='@/assets/curso/tema1/20.svg', alt='Página educativa sobre patronaje básico masculino. En la parte superior aparece el título “patrón básico de torso masculino” acompañado de un texto explicativo y una nota instructiva. En el centro se muestra la Figura 7, un diagrama técnico del patrón básico de torso masculino con piezas del delantero y espalda identificadas como CF y CA. El esquema incluye líneas de construcción, curvas de sisa y cuello, medidas proporcionales, referencias de hombro, centro atrás y divisiones matemáticas utilizadas para elaborar el patrón.')
+          img.img-a.img-t(src='@/assets/curso/tema1/20.svg', alt='Diagrama técnico del patrón básico de torso masculino con piezas del delantero y espalda identificadas como CF y CA. El esquema incluye líneas de construcción, curvas de sisa y cuello, medidas proporcionales, referencias de hombro, centro atrás y divisiones matemáticas utilizadas para elaborar el patrón.')
 
 
 </template>
