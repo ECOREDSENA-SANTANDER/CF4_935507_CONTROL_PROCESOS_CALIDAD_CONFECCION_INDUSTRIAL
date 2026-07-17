@@ -7,7 +7,7 @@
         span 1
       h1 Patronaje básico
     
-    p.mb-0(data-aos="fade-right") La actividad del patronaje se constituye como la actividad básica en la creación de las prendas, es definido como el proceso mediante el cual se elaboran todas las piezas y moldes necesarios para la creación y estructuración de una prenda, este proceso se encuentra ligado al proceso creativo del diseñador.
+    p.mb-0(data-aos="fade-right") El patronaje se constituye como una actividad básica en la creación de prendas. Se define como el proceso mediante el cual se elaboran las piezas y los moldes necesarios para la creación y estructuración de una prenda. Este proceso se encuentra ligado al trabajo creativo del diseñador.
 
 
     separador
@@ -22,7 +22,7 @@
           .p-4
             img.mb-3.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/2.svg', alt='')
             p.mb-4(data-aos="fade-left") La comunicación es primordial para el logro de los objetivos de una empresa, por lo tanto, todas las áreas de la planta deben definir e identificar los conceptos propios del proceso para su aplicación en una determinada sección sin inconvenientes y no alterar la calidad de la prenda al momento de avanzar en las diferentes secciones o áreas de producción.
-            p.mb-0(data-aos="fade-right") El patronaje es la técnica de desarrollo de las plantillas resultado de la interpretación del diseño de la prenda, tiene en cuenta las medidas del cuerpo, las cuales pueden ser tridimensionales o bidimensionales. De acuerdo con la industrialización del proceso se hace necesario convenir en el uso de términos y de símbolos, es necesario que se maneje un lenguaje técnico relacionado al proceso, como por ejemplo, hilo de tela, línea de aplome, ampliaciones, desahogos, entre otros para su aplicación en el procedimiento.
+            p.mb-0(data-aos="fade-right") El patronaje es la técnica mediante la cual se desarrollan las plantillas resultantes de la interpretación del diseño de una prenda. Para ello, se tienen en cuenta las medidas del cuerpo, que pueden ser tridimensionales o bidimensionales. Debido a la industrialización del proceso, es necesario unificar el uso de términos y símbolos, así como emplear un lenguaje técnico relacionado con el patronaje, por ejemplo: hilo de tela, línea de aplome, ampliaciones y desahogos, entre otros.
     
     .tarjeta.color-acento-contenido.des.p-4.mb-5(data-aos="fade-left")
       .row.justify-content-around.align-items-center
@@ -32,7 +32,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.mx-lg-4
               h4.mb-2 Terminología en patronaje
-              p.mb-0 Para conocer otros conceptos consulte del documento terminología en patronaje.
+              p.mb-0 Para ampliar la información, consulte el documento Terminología en patronaje, ubicado en la carpeta Anexos.
             .col-sm-auto.pe-lg-5
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Terminologia_en_patronaje.pdf')" target="_blank")
                 span Descargar 
@@ -81,7 +81,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.mx-lg-4
               h4.mb-2 Manual de patronaje 
-              p.mb-0 Para más información consulte el manual de patronaje básico e interpretación de diseños.
+              p.mb-0 Para ampliar la información sobre las convenciones y las claves geométricas utilizadas en patronaje, consulte las páginas 7 y 8 del Manual de patronaje básico e interpretación de diseños.
             .col-sm-auto.pe-lg-5
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                 span Descargar 
@@ -117,8 +117,6 @@
             | Medidas corporales para confección de falda
           img.img-a.img-t(src='@/assets/curso/tema1/21.svg', alt='Figura que explica las medidas corporales necesarias para la confección de una falda. Incluye cuatro ilustraciones de una figura femenina con una falda verde y el patrón de la prenda. Se identifican las medidas de contorno de cintura, largo de falda, contorno de cadera y separación del busto mediante flechas y líneas de referencia sobre el cuerpo y el molde.')
 
-    p.mb-4(data-aos="fade-right") Los materiales y herramientas para desarrollar manualmente los patrones son papel molde o manifold, tijeras de papel, portaminas, borrador, micropuntas de colores, pegante en barra, rodaja, punzón y las reglas de patronaje.
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .bg4.p-4.mb-0
@@ -148,7 +146,8 @@
         figcaption Video. Toma de medidas
 
     .bg5.p-lg5.p-4.mb-5(data-aos="fade-right")
-      p.mb-0 La empresa debe conocer al consumidor, su antropometría y así con un estudio minucioso establecer una tabla de medidas en donde se estandarice por tallas. Las tablas muestran en orden creciente las medidas y su talla, conforme a la proporción, la cual se entiende como una unidad de medida constante, y es aplicada en cada talla para establecer su variación. Las tablas de medidas pueden cambiar en una misma línea de producto, conforme el mercado, la marca del producto o tipo de tejido.
+      p.mb-0 La empresa debe conocer al consumidor y su antropometría para establecer, mediante un estudio minucioso, una tabla de medidas estandarizada por tallas. 
+      p.mb-0 Las tablas de medidas pueden variar dentro de una misma línea de producto, conforme al mercado, la marca del producto o el tipo de tejido.
 
     .tarjeta.color-acento-contenido.des.p-4.mb-0(data-aos="fade-left")
       .row.justify-content-around.align-items-center
@@ -158,7 +157,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.mx-lg-4
               h4.mb-2 Manual de patronaje 
-              p.mb-0 Para más información consulte el manual de patronaje básico e interpretación de diseños.
+              p.mb-0 Para ampliar la información sobre los puntos de referencia corporales y la toma de medidas, consulte las páginas 9 a 17 del Manual de patronaje básico e interpretación de diseños, ubicado en la carpeta Anexos. Los cuadros de tallas se encuentran en las páginas 20, 64 y 82 del mismo documento.
             .col-sm-auto.pe-lg-5
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                 span Descargar 
@@ -182,7 +181,7 @@
     
     p.mb-4(data-aos="fade-left") Los anchos de costura aplicados, dependen del tipo de costura y conforme a las normas de calidad en el proceso industrializado, en donde se considera un (1) cm de ancho de costura, pero además se debe tener en cuenta el ajuste y características de las máquinas, por ejemplo, el ancho de un sobrehilado puede variar según el ajuste por tanto puede afectar las medidas de los contornos en una camiseta cuando se unan a los costados, de allí puede ser 0,5 cm o 0,7 cm el ancho de costura, variando 2 mm que en total del contorno equivale a 2mm x 4mm = 8 mm, es decir casi un centímetro lo que afectará las medidas de prenda terminada.
 
-    p.mb-4(data-aos="fade-right") El procedimiento de patronaje manual se desarrolla en tres pasos básicos como muestra en la siguiente figura y los cuales cuentan con una serie de actividades a realizar y las cuales permiten el desarrollo de un patrón con las características recibidas en la orden de trabajo.
+    p.mb-4(data-aos="fade-right") El procedimiento de patronaje manual se desarrolla en tres pasos básicos como se presenta en la siguiente figura y los cuales cuentan con una serie de actividades a realizar y las cuales permiten el desarrollo de un patrón con las características recibidas en la orden de trabajo.
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-12.offset-lg-0
@@ -248,7 +247,7 @@
                   p.mb-0 Ensamblar el prototipo o muestra.
                 li.d-flex.mb-2
                   i.fas.fa-boltt
-                  p.mb-0 Analizar y evaluar muestra terminada.
+                  p.mb-0 Analizar y evaluar la muestra terminada.
                 li.d-flex.mb-2
                   i.fas.fa-boltt
                   p.mb-0 Realizar ajustes.
@@ -259,7 +258,7 @@
                   i.fas.fa-boltt
                   p.mb-0 Aprobar el patrón una vez cumpla con los requisitos.
 
-    p.mb-4(data-aos="fade-right") Una vez se aprueba el prototipo o muestra, desarrollado de forma manual o asistido por computador, se procede a realizar el escalado de cada pieza que compone el patrón, como lo muestra la figura, a lo cual se le denomina nido.
+    p.mb-4(data-aos="fade-right") Una vez se aprueba el prototipo o muestra, desarrollado de forma manual o asistido por computador, se procede a realizar el escalado de cada pieza que compone el patrón, como se presenta la figura, a lo cual se le denomina nido.
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-left")
       .col-lg-12
@@ -284,7 +283,7 @@
             p.mb-0 Como se ha visto, es importante establecer los patrones básicos en cada línea de producción para luego proceder a realizar las transformaciones necesarias según el diseño del modelo.
             br 
             br 
-            p.mb-0 Se desarrollan patrones básicos de corpiño en la línea femenina para realizar blusas, vestidos y chaquetas; así mismo, para confeccionar prendas elásticas se desarrollan patrones básicos de corpiños especializado para este tipo de textiles las cuales son reducidas según su elasticidad. También se desarrollan patrones básicos de falda y pantalón para las prendas inferiores.
+            p.mb-0 Se desarrollan patrones básicos de corpiño en la línea femenina para realizar blusas, vestidos y chaquetas; asimismo, para confeccionar prendas elásticas, se desarrollan patrones básicos de corpiño especializados para este tipo de textiles, los cuales se reducen según su elasticidad. También se desarrollan patrones básicos de falda y pantalón para las prendas inferiores.
             br 
             br
             p.mb-0 En la línea masculina se desarrollan patrones básicos de torso y pantalón; y para la línea infantil se desarrollan patrones básicos de torso, falda y pantalón.
@@ -303,7 +302,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.mx-lg-4
               h4.mb-2 Manual de patronaje 
-              p.mb-0 Se realizan las operaciones indicadas para desarrollar el patrón del corpiño y del torso - para ello puede revisar el manual de patronaje básico e interpretación de diseño.
+              p.mb-0 Para desarrollar el patrón base femenino, consulte las páginas 21 a 25 del Manual de patronaje básico e interpretación de diseños, ubicado en la carpeta Anexos.
             .col-sm-auto.pe-lg-5
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                 span Descargar 
@@ -340,13 +339,13 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.mx-lg-4
               h4.mb-2 Manual de patronaje 
-              p.mb-0 Realizar las operaciones indicadas para desarrollar el patrón básico infantil para ello puede revisar el manual de patronaje básico e interpretación de diseño.
+              p.mb-0 Para desarrollar el patrón básico infantil, consulte el cuadro de tallas de la página 82 y el procedimiento de las páginas 83 a 85 del Manual de patronaje básico e interpretación de diseños.
             .col-sm-auto.pe-lg-5
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                 span Descargar 
                 i.fas.fa-file-download
     
-    p.mb-4 En esta sección se muestra el patrón básico de torso infantil terminado.
+    p.mb-4 En la figura se observa el patrón básico de torso infantil terminado.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -370,7 +369,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.mx-lg-4
               h4.mb-2 Manual de patronaje 
-              p.mb-0 Realizar las operaciones indicadas para desarrollar el patrón básico masculino, para ello puede revisar el manual de patronaje básico e interpretación de diseño.
+              p.mb-0 Para desarrollar el patrón base masculino, consulte el cuadro de tallas de la página 64 y el patrón base masculino clásico de la página 65 del Manual de patronaje básico e interpretación de diseños.
             .col-sm-auto.pe-lg-5
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/Manual_patronaje_basico_interpretacion_disenos.pdf')" target="_blank")
                 span Descargar 

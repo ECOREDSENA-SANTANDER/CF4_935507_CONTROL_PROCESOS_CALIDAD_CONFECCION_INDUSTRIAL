@@ -61,7 +61,7 @@
               span 5
             | Colocar recomendaciones y observaciones.
     
-    p.mb-4 A continuación se puede observar un formato genérico en el que se pueden desarrollar los pasos mencionados.
+    p.mb-4 A continuación, se presenta un formato genérico en el que se pueden desarrollar los pasos mencionados.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -194,7 +194,7 @@
                     | Ejemplo de glosario técnico
                   img(src='@/assets/curso/tema3/26.svg', alt='Formato de glosario técnico de una ficha técnica. La imagen presenta un espacio para el logo de la empresa y una tabla de ejemplo organizada en columnas para registrar términos técnicos y sus respectivas definiciones.')
     
-    p.mb-4 A continuación se muestran las partes que componen la ficha técnica de producción de una blusa camisera de dama de acuerdo con el proceso:
+    p.mb-4 A continuación, se muestran las partes que componen la ficha técnica de producción de una blusa camisera de dama de acuerdo con el proceso:
 
     p.mb-4 La ficha técnica de diseño de la prenda describe el diseño de la prenda, dibujo plano que incluye lupas y especificaciones de la prenda terminada y colores a utilizar.
 
@@ -556,7 +556,7 @@
             p.mb-0 #[b Operaciones de preparación:] unir realce, unir tiro, entre otras.
           li.d-flex.mb-3
             i.fas.fa-bolt
-            p.mb-0 #[b Operaciones de ensamble:]  unir entre pierna, pierna, dobladillar pierna, fijar elástico entre otras.
+            p.mb-0 #[b Operaciones de ensamble:]  unir entrepierna, pierna, dobladillar pierna, fijar elástico entre otras.
           li.d-flex.mb-0
             i.fas.fa-bolt
             p.mb-0 #[b Operaciones de terminados:] presillar, limpiar, revisar, empacar, entre otras.

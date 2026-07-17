@@ -16,7 +16,7 @@
           .col-lg-2.col-md-2.col-5
             img.mb-lg-0.mb-md-0.mb-4.img-t.img-a(src='@/assets/curso/intro/2.svg')
           .col-lg-10.col-md-10
-            p.mb-0 Actualmente la industria de la moda requiere de altos estándares de calidad, lo cual se logra no solo a partir de los insumos y la maquinaria, sino del proceso de estructuración de las prendas a confeccionar mediante el patronaje, una actividad que requiere de precisión y exactitud en el diseño de la moldería y el escalado de las tallas a partir de los bocetos o diseños de modelos.
+            p.mb-0 Actualmente la industria de la moda requiere de altos estándares de calidad, lo cual se logra no solo a partir de los insumos y la maquinaria, sino del proceso de estructuración de las prendas a confeccionar mediante el patronaje, una actividad que requiere precisión y exactitud en el diseño de la moldería y el escalado de las tallas a partir de los bocetos o diseños de modelos.
         .bg1.p-4
           p.mb-0 Por ello es necesario comprender y describir los procesos de patronaje, corte y trazo para relacionarlos con los procesos de confección, con el fin de determinar las diversas rutas operacionales de acuerdo con las líneas de producto y la tecnología disponible para realizar procesos de confección de calidad.
 

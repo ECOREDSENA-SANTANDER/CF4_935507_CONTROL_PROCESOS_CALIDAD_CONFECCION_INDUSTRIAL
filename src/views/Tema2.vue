@@ -88,7 +88,7 @@
             p.mb-0 Marcación manual o asistida por computador de las piezas que componen los patrones de la prenda. Se deben realizar los trazos por cada material en que se corta, es decir, trazos en telas, forro o entretelas teniendo en cuenta las cantidades y las tallas según la orden de corte.
             br 
             br 
-            p.mb-0 “La marcada es siempre un rectángulo de lado corto igual al ancho del tejido y lado largo el que corresponda una vez distribuidos los patrones encima de la tela” (Giraldo, 1990, p.9)
+            p.mb-0 “La marcada es siempre un rectángulo de lado corto igual al ancho del tejido y lado largo el que corresponda una vez distribuidos los patrones encima de la tela” (Giraldo, 1990, p.9).
     
     p.mb-5 En el caso del corte troquelado se realiza mediante el uso de plantillas colocadas a presión y se procede a cortar. Es muy importante tener en cuenta el aprovechamiento del espacio en la colocación de los patrones para mejorar el rendimiento de la tela.
 
@@ -254,7 +254,7 @@
                   .col-lg-6.col-md-8.col-10
                     img(alt="" src="@/assets/curso/tema2/15.png")
 
-    p.mb-4 Así mismo existe maquinaria y equipos con tecnología por control numérico, en el que se utilizan programas informáticos para realizar las diversas operaciones de corte, entre los más comunes se encuentran:
+    p.mb-4 Asimismo, existen máquinas y equipos con tecnología de control numérico que utilizan programas informáticos para ejecutar las diferentes operaciones de corte. Entre los más comunes se encuentran:
     
     .row.justify-content-center.align-items-center.mb-lg-5.mb-4
       .col-lg-3.d-none.d-lg-block

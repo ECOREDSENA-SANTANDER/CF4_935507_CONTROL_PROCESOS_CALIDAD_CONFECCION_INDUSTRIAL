@@ -23,7 +23,7 @@ export default {
         '<b> Objetivo:</b> evaluar la comprensión de los aprendices sobre los conceptos relacionados con patronaje básico, terminología técnica, señalización de patrones, medidas corporales, procedimientos de trazo y corte, operaciones principales y auxiliares de corte, tecnología aplicada, diagramas de flujo y operaciones, ficha técnica, ruta operacional y procesos de confección industrial por línea de producción.',
       barajarPreguntas: true,
       titulo_aprobado: '¡FELICIDADES!',
-      titulo_reprobado: 'VUELVA A INTENTARLO',
+      titulo_reprobado: '¡VUELVA A INTENTARLO!',
       preguntas: [
         {
           id: 1,

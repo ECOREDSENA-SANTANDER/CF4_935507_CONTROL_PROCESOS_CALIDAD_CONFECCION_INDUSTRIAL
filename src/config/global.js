@@ -196,7 +196,7 @@ export default {
     {
       termino: 'Patronaje plano',
       significado:
-        'resultado de la interpretación del diseño de la prenda, desarrollados a partir de los patrones básicos.',
+        'resultado de la interpretación del diseño de la prenda, desarrollado a partir de los patrones básicos.',
     },
     {
       termino: 'Piquetes',
@@ -225,55 +225,67 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'A5 Proyect Group (2020). Máquinas de corte automático.',
+      referencia:
+        'A5 Project Group. (2020). <em>Máquinas de corte automático</em>.',
       link: '',
     },
     {
       referencia:
-        'Amaden-Crawford, C. (2014). Confección de moda: técnicas básicas. Vol. 2. Editorial Gustavo Gili.',
-      link: '',
-    },
-    {
-      referencia: 'Audaces Pattern. Audaces. (2020).',
+        'Amaden-Crawford, C. (2014). <em>Confección de moda: técnicas básicas</em> (Vol. 1). Editorial Gustavo Gili.',
       link: '',
     },
     {
       referencia:
-        'Carrera de Diseño y Gestión en Moda. (2015). Técnicas de patronaje. Tomo I: Mujer. Universidad Peruana de Ciencias Aplicadas (UPC).',
+        'Audaces. (2020). <em>Audaces Pattern</em> [<em>Software</em>].',
       link: '',
     },
     {
       referencia:
-        'Duarte, N. (1983). Conocimientos básicos de corte. Unidad instruccional No. 3 SENA – Repositorio institucional.',
+        'Carrera de Diseño y Gestión en Moda. (2015). <em>Técnicas de patronaje: tomo I. Mujer</em>. Universidad Peruana de Ciencias Aplicadas.',
       link: '',
     },
     {
       referencia:
-        'Duarte, N. E. (1984). Toma de medidas para falda. SENA - Repositorio institucional',
+        'Duarte, N. (1983). <em>Conocimientos básicos de corte: unidad instruccional n.º 3</em>. Servicio Nacional de Aprendizaje.',
       link: '',
     },
     {
       referencia:
-        'Durán Portillo, D. (2013). Preparación de máquinas de corte, ensamblado y acabado (UF1034). IC Editorial.',
+        'Duarte, N. E. (1984). <em>Toma de medidas para falda</em>. Servicio Nacional de Aprendizaje.',
       link: '',
     },
     {
       referencia:
-        'Giraldo, M. (1990). Procesos básicos en la sala de corte. SENA',
+        'Durán Portillo, D. (2013). <em>Preparación de máquinas de corte, ensamblado y acabado</em> (UF1034). IC Editorial.',
       link: '',
     },
     {
       referencia:
-        'Giraldo, M. (1990). Selección de las máquinas para sala de corte. SENA.',
+        'Giraldo, M. (1990a). <em>Procesos básicos en la sala de corte</em>. Servicio Nacional de Aprendizaje.',
       link: '',
     },
     {
       referencia:
-        'OPTITEX, (2020). PATTERN DESIGN SOFTWARE INTEGRADO EN 2D Y 3D.',
+        'Giraldo, M. (1990b). <em>Selección de las máquinas para sala de corte</em>. Servicio Nacional de Aprendizaje.',
       link: '',
     },
     {
-      referencia: 'OPTITEX. (2020). CUTPLAN',
+      referencia:
+        'Gutiérrez, S. C. (s. f.). <em>Terminología en patronaje</em> [Documento de apoyo]. Servicio Nacional de Aprendizaje.',
+      link: '',
+    },
+    {
+      referencia: 'Optitex. (2020a). <em>CutPlan</em> [<em>Software</em>].',
+      link: '',
+    },
+    {
+      referencia:
+        'Optitex. (2020b). <em>Pattern Design Software integrado en 2D y 3D</em> [<em>Software</em>].',
+      link: '',
+    },
+    {
+      referencia:
+        'Servicio Nacional de Aprendizaje. (2011). <em>Manual de patronaje básico e interpretación de diseños</em>. Regional Distrito Capital, Centro de Manufactura en Textiles y Cuero.',
       link: '',
     },
   ],
@@ -301,13 +313,13 @@ export default {
           nombre: 'Rafael Nelftalí Lizcano Reyes',
           cargo: 'Asesor metodológico y pedagógico',
           centro:
-            'CENTRO INDUSTRIAL DEL DISEÑO Y LA MANUFACTURA - Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Sandra Cecilia Gutiérrez',
           cargo: 'Experta temática',
           centro:
-            'CENTRO INDUSTRIAL DEL DISEÑO Y LA MANUFACTURA - Regional Santander',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Vilma Lucía Perilla Méndez',
@@ -318,7 +330,7 @@ export default {
           nombre: 'Oscar Andrés Fernández Urrego',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica – CENIGRAF - Regional Bogotá',
+            'Centro para la Industria de la Comunicación Gráfica – CENIGRAF - Regional Distrito Capital',
         },
         {
           nombre: 'Julieth Paola Vital López',
