@@ -7,7 +7,7 @@
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-11.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Se divide en tres áreas: patronaje básico, que incluye técnicas, medidas y tipos de patronaje; procedimiento de trazo y corte, con operaciones, tipos de corte y tecnología utilizada; y procesos de confección industrial, enfocados en la elaboración de diferentes prendas como camisas, pantalones, ropa deportiva, interior y jean.")
+          img(src="@/assets/curso/sintesis.svg", alt="Diagrama de control de calidad en confección industrial que organiza contenidos de patronaje básico, trazo y corte, y procesos de confección por línea de producción.")
       .col-auto
         a.anexo.mb-0(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
